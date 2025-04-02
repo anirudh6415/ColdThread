@@ -1,0 +1,20 @@
+<html>
+<body>
+<p>Dear {first_name},</p>
+
+<p>I hope this email finds you well. I wanted to follow up on my previous email regarding a referral request to {first_name} at <strong>{company_name}</strong>. I understand that you're likely very busy, but I wanted to kindly remind you of my interest in the position and in connecting with you for the referral.</p>
+
+<p>If there's any more information I can provide or anything else I can do to make the process easier, please feel free to let me know. I truly appreciate your support and assistance with this referral request.</p>
+
+<p>Thank you again for your time, and I look forward to hearing from you soon.</p>
+
+<p>Sincerely,</p>
+<p><strong>Anirudh Iyengar Kaniyar Narayana Iyengar</strong><br>
+Email: <a href="mailto:akaniyar@asu.edu" style="color:rgb(102,102,102); text-decoration:none;">akaniyar@asu.edu</a> | Phone: <span style="color:rgb(102,102,102);">+1-480-(919)-4286</span><br>
+<a href="https://yourportfolio.com" style="color:rgb(153,0,0); font-weight:bold; text-decoration:underline;">Portfolio</a> |
+<a href="https://www.linkedin.com/in/yourprofile" style="color:rgb(11,83,148); font-weight:bold; text-decoration:underline;">LinkedIn</a> | 
+<a href="https://github.com/yourusername" style="color:rgb(0,0,0); font-weight:bold; text-decoration:underline;">GitHub</a>
+</p>
+</p>
+</body>
+</html>

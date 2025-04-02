@@ -1,0 +1,16 @@
+Hello {first_name},
+
+I hope you’re doing well. I'm Anirudh Iyengar and I came across a job posting for {position} @ {company_name}. I think I'd be a good fit. I know you are super busy, So I'll keep this brief.
+
+Why I am fit for this role -
+1. Has Data Science experience | 2 YOE  @ HIB
+2. MLE Intern (Recent) | axyo prev (Synapse Labs.ai)  Built an e2e ML product for a client on payment reconciliation, which is deployed and actively used.
+3. Deep Learning Research Assistant | 1 YOE @ ASU (Jliang Lab)
+4. This shows that I am skilled, have direct experience in ML, and know a bunch about tech. This makes me a strong choice for this job.
+
+What do I need to do to get an interview @ {company_name}? I’ve attached my resume and cover letter for your reference. I would like to have a 15-minute call with you. Alternatively, could you please put in a word with the hiring manager or recruiter for this role?. I’d greatly appreciate it.
+
+Looking forward to hearing from you soon.
+
+
+

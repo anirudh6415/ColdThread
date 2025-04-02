@@ -1,0 +1,24 @@
+<html>
+<body>
+<p>Hi {first_name},</p>
+<p>I hope you’re doing well. My name is Anirudh Iyengar, and I came across a job posting for the <strong>{position}</strong> at <strong>{company_name}</strong>. I believe I’d be a great fit for this role, and I’ll keep this brief as I know you’re busy.</p>
+<p>Why I’m a fit for this role:</p>
+<ul>
+    <li>Data Science experience | 2 YOE @ HIB</li>
+    <li>MLE Intern (Recent) | axyo prev (Synapse Labs.ai) - Built an end-to-end ML product for a client on payment reconciliation, which is deployed and actively used.</li>
+    <li>Deep Learning Research Assistant | 1 YOE @ ASU (Jliang Lab)</li>
+</ul>
+<p>This demonstrates that I am skilled, have direct experience in ML, and have a solid tech background, making me a strong candidate for this role.</p>
+<p>What can I do to get an interview at <strong>{company_name}</strong>? I’ve attached my resume and cover letter for your reference. I’d love to have a quick 15-minute chat with you. Alternatively, could you please put in a word with the hiring manager or recruiter for this role? I’d greatly appreciate it.</p>
+<p>Looking forward to hearing from you soon.</p>
+
+<p>Sincerely,</p>
+<p><strong>Anirudh Iyengar Kaniyar Narayana Iyengar</strong><br>
+Email: <a href="mailto:akaniyar@asu.edu" style="color:rgb(102,102,102); text-decoration:none;">akaniyar@asu.edu</a> | Phone: <span style="color:rgb(102,102,102);">+1-480-(919)-4286</span><br>
+<a href="https://yourportfolio.com" style="color:rgb(153,0,0); font-weight:bold; text-decoration:underline;">Portfolio</a> |
+<a href="https://www.linkedin.com/in/yourprofile" style="color:rgb(11,83,148); font-weight:bold; text-decoration:underline;">LinkedIn</a> | 
+<a href="https://github.com/yourusername" style="color:rgb(0,0,0); font-weight:bold; text-decoration:underline;">GitHub</a>
+</p>
+</p>
+</body>
+</html>
