@@ -4,7 +4,7 @@ import time
 from data_utils.generate_email_address import generate_email_address
 from email_utils.email_sender import send_email
 from email_utils.email_manager import load_email_settings, read_email_template,read_csv_data, read_excel_data ,save_csv_data
-
+import pandas as pd
 
 from logger import get_logger
 logger = get_logger(__name__)
@@ -54,7 +54,10 @@ def send_emails_now(batch_size=10):
                                 logger.info(f"Email sent successfully to {recipient_email}")
 
                                 data.loc[index, 'done'] = 'sent'
-                                data.loc[index,'message_id'] = message_id
+                                if pd.notna(data.loc[index, 'message_id']) and data.loc[index, 'message_id'].strip() != "":
+                                    data.loc[index, 'message_id'] += f", {message_id}"  
+                                else:
+                                    data.loc[index, 'message_id'] = message_id
                                 
                         elif recipient_emails:
                             subject = f"[Anirudh]: Exploring Full-Time {position} at {company_name}"

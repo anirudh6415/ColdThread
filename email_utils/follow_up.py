@@ -11,7 +11,7 @@ read recipient data from an Excel file, and send follow-up emails.
 from email_utils.email_sender import send_email
 from email_utils.email_manager import load_email_settings, read_email_template, read_csv_data,read_excel_data, read_follow_up_template,save_csv_data
 from data_utils.generate_email_address import generate_email_address  # Import the generate_email_address function
-
+import pandas as pd 
 
 from logger import get_logger
 logger = get_logger(__name__)
@@ -59,7 +59,10 @@ def send_follow_up_email():
                         logger.info(f"follow-up email sent successfully to {email}")
 
                         data.loc[index, 'follow_up'] = 'sent'
-                        data.loc[index,'message_id'] = message_id
+                        if pd.notna(data.loc[index, 'message_id']) and data.loc[index, 'message_id'].strip() != "":
+                            data.loc[index, 'message_id'] += f", {message_id}"  
+                        else:
+                            data.loc[index, 'message_id'] = message_id
                     else:
                         logger.warning("Skipping follow-up email: Unable to generate recipient email address.")
             elif generated_emails:

@@ -22,9 +22,12 @@ def clean_email(email):
     if isinstance(email, float) and pd.isna(email):  # Handle NaN values
         logger.warning("Email field contains NaN, replacing with None.")
         return None
-    elif isinstance(email, str) and email.strip() == "":  # Handle empty strings
-        logger.warning("Email field is empty, replacing with None.")
-        return None
+    elif isinstance(email, str):
+        email = email.strip()
+        if email == "":  # Handle empty strings
+            logger.warning("Email field is empty, replacing with None.")
+            return None
+        return tuple(e.strip() for e in email.split(",")) if "," in email else email 
     else:
         return email
     

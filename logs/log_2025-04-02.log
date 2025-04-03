@@ -1,0 +1,220 @@
+2025-04-02 22:27:19,943 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:27:19,945 - INFO - Read email template.
+2025-04-02 22:27:19,945 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:27:19,955 - INFO - Generating email addresses...
+2025-04-02 22:27:19,955 - INFO - Using provided email address.
+2025-04-02 22:27:19,955 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:27:19,955 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:27:20,354 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:27:21,622 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:27:21,624 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:27:21,625 - INFO - Generating email addresses...
+2025-04-02 22:27:21,625 - INFO - Using provided email address.
+2025-04-02 22:27:21,625 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 22:27:21,625 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:27:21,971 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 22:27:23,168 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:27:23,169 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:27:23,169 - INFO - Generating email addresses...
+2025-04-02 22:27:23,171 - INFO - Using provided email address.
+2025-04-02 22:27:23,171 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 22:27:23,171 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:27:23,529 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 22:27:25,559 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:27:25,560 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:27:25,560 - INFO - Sending email to: anirudhiyengarkni98@gmail.com
+2025-04-02 22:27:25,931 - INFO - Referencing to message_id: <174364724352.69128.3377887169988140318@gmail.com> for anirudhiyengarkni98@gmail.com
+2025-04-02 22:27:25,931 - INFO - Using message_id: <174364724352.69128.3377887169988140318@gmail.com> for anirudhiyengarkni98@gmail.com
+2025-04-02 22:27:27,231 - INFO - Email sent successfully to anirudhiyengarkni98@gmail.com
+2025-04-02 22:27:27,231 - INFO - Email sent successfully to anirudhiyengarkni98@gmail.com
+2025-04-02 22:27:27,238 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:29:35,937 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:29:35,941 - INFO - Read email template.
+2025-04-02 22:29:35,941 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:29:35,948 - INFO - Generating email addresses...
+2025-04-02 22:29:35,948 - INFO - Using provided email address.
+2025-04-02 22:29:35,948 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:29:35,948 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:29:36,379 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:29:37,585 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:29:37,586 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:29:37,586 - INFO - Generating email addresses...
+2025-04-02 22:29:37,586 - INFO - Using provided email address.
+2025-04-02 22:29:37,586 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 22:29:37,586 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:29:37,929 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 22:29:39,219 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:29:39,219 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:29:39,221 - INFO - Generating email addresses...
+2025-04-02 22:29:39,225 - INFO - Using provided email address.
+2025-04-02 22:29:39,225 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 22:29:39,225 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:29:39,578 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 22:29:41,754 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:29:41,754 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:29:41,754 - INFO - Sending email to: anirudhiyengarkni98@gmail.com
+2025-04-02 22:29:42,129 - INFO - Referencing to message_id: <174364737957.110760.10707198022715532207@gmail.com> for anirudhiyengarkni98@gmail.com
+2025-04-02 22:29:42,129 - INFO - Using message_id: <174364737957.110760.10707198022715532207@gmail.com> for anirudhiyengarkni98@gmail.com
+2025-04-02 22:29:43,462 - INFO - Email sent successfully to anirudhiyengarkni98@gmail.com
+2025-04-02 22:29:43,462 - INFO - Email sent successfully to anirudhiyengarkni98@gmail.com
+2025-04-02 22:29:43,470 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:30:46,247 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:30:46,247 - INFO - Read email template.
+2025-04-02 22:30:46,247 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:30:46,255 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-02 22:30:46,255 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:30:46,255 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:30:46,255 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:31:01,015 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:31:01,015 - INFO - Read email template.
+2025-04-02 22:31:01,015 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:31:01,019 - INFO - Generating email addresses...
+2025-04-02 22:31:01,019 - INFO - Using provided email address.
+2025-04-02 22:31:01,019 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:31:01,019 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:31:01,464 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:31:02,585 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:31:02,585 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:31:02,585 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:31:02,585 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:31:02,585 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:32:58,968 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:32:58,977 - INFO - Read email template.
+2025-04-02 22:32:58,979 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:32:58,985 - INFO - Generating email addresses...
+2025-04-02 22:32:58,985 - INFO - Using provided email address.
+2025-04-02 22:32:58,985 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:32:58,985 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:32:59,379 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:33:00,536 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:33:00,536 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:33:00,542 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:33:00,542 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:33:00,546 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:35:15,617 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:35:15,617 - INFO - Read email template.
+2025-04-02 22:35:15,617 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:35:15,630 - INFO - Generating email addresses...
+2025-04-02 22:35:15,630 - INFO - Using provided email address.
+2025-04-02 22:35:15,630 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:35:15,630 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:35:16,024 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:35:17,116 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:35:17,118 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:35:17,118 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:35:17,118 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:35:17,122 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:37:57,557 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:37:57,560 - INFO - Read email template.
+2025-04-02 22:37:57,560 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:37:57,570 - INFO - Generating email addresses...
+2025-04-02 22:37:57,570 - INFO - Using provided email address.
+2025-04-02 22:37:57,577 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:37:57,577 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:37:57,955 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:37:58,985 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:37:58,985 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:37:58,987 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:37:58,987 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:37:58,993 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:41:42,275 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:41:42,283 - INFO - Read email template.
+2025-04-02 22:41:42,283 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:41:42,300 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-02 22:41:42,300 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:41:42,308 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:41:42,308 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:42:01,159 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:42:01,159 - INFO - Read email template.
+2025-04-02 22:42:01,159 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:42:01,166 - INFO - Generating email addresses...
+2025-04-02 22:42:01,170 - INFO - Using provided email address.
+2025-04-02 22:42:01,170 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:42:01,172 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:42:01,758 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:42:03,101 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:42:03,101 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:42:03,109 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:42:03,109 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:42:03,109 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:44:19,638 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:44:19,644 - INFO - Read email template.
+2025-04-02 22:44:19,644 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:44:19,669 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-02 22:44:19,669 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:44:19,669 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:44:19,669 - INFO - Generating email addresses...
+2025-04-02 22:44:19,669 - INFO - Using provided email address.
+2025-04-02 22:44:19,669 - INFO - Sending email to: hdhanase@asu.edu
+2025-04-02 22:44:19,669 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:44:20,137 - INFO - Using message_id: nan for hdhanase@asu.edu
+2025-04-02 22:44:21,483 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-02 22:44:21,483 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-02 22:44:21,491 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:44:51,961 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:44:51,961 - INFO - Read email template.
+2025-04-02 22:44:51,994 - INFO - Read follow-up email template.
+2025-04-02 22:44:51,994 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:45:19,224 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:45:19,224 - INFO - Read email template.
+2025-04-02 22:45:19,224 - INFO - Read follow-up email template.
+2025-04-02 22:45:19,224 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:45:19,237 - INFO - Skipping the follow-up for akaniyar@asu.edu!!!! already sent 
+2025-04-02 22:45:19,237 - INFO - Skipping the follow-up for anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:45:19,237 - INFO - Skipping the follow-up for anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:45:19,237 - INFO - Generating email addresses...
+2025-04-02 22:45:19,237 - INFO - Using provided email address.
+2025-04-02 22:45:19,237 - INFO - Sending email to: hdhanase@asu.edu
+2025-04-02 22:45:19,602 - INFO - Referencing to message_id: <174364826013.108328.14413785599413221274@gmail.com> for hdhanase@asu.edu
+2025-04-02 22:45:19,602 - INFO - Using message_id: <174364826013.108328.14413785599413221274@gmail.com> for hdhanase@asu.edu
+2025-04-02 22:45:21,530 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-02 22:45:21,532 - INFO - follow-up email sent successfully to hdhanase@asu.edu
+2025-04-02 22:45:21,534 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:56:51,204 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:56:51,204 - INFO - Read email template.
+2025-04-02 22:56:51,204 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:56:51,238 - INFO - Generating email addresses...
+2025-04-02 22:56:51,238 - INFO - Using provided email address.
+2025-04-02 22:56:51,238 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 22:56:51,238 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:56:51,721 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 22:56:53,858 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:56:53,859 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 22:56:53,859 - INFO - Skipping anirudh.9591@gmail.com!!!! already sent 
+2025-04-02 22:56:53,860 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:56:53,860 - INFO - Skipping hdhanase@asu.edu!!!! already sent 
+2025-04-02 22:56:53,865 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 22:58:19,861 - INFO - Loaded environment variables from .env file.
+2025-04-02 22:58:19,863 - INFO - Read email template.
+2025-04-02 22:58:19,863 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 22:58:19,871 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-02 22:58:19,871 - INFO - Generating email addresses...
+2025-04-02 22:58:19,871 - INFO - Using provided email address.
+2025-04-02 22:58:19,873 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 22:58:19,873 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 22:58:20,299 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 22:58:23,027 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:58:23,028 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 22:58:23,028 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 22:58:23,028 - INFO - Skipping hdhanase@asu.edu!!!! already sent 
+2025-04-02 22:58:23,031 - INFO - Data successfully saved to recruiters.csv
+2025-04-02 23:31:55,294 - INFO - Loaded environment variables from .env file.
+2025-04-02 23:31:55,295 - INFO - Read email template.
+2025-04-02 23:31:55,295 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-02 23:31:55,309 - INFO - Generating email addresses...
+2025-04-02 23:31:55,310 - INFO - Using provided email address.
+2025-04-02 23:31:55,310 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-02 23:31:55,310 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 23:31:56,044 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-02 23:31:59,486 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 23:31:59,487 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-02 23:31:59,487 - INFO - Generating email addresses...
+2025-04-02 23:31:59,488 - INFO - Using provided email address.
+2025-04-02 23:31:59,488 - INFO - Sending email to: anirudh.9591@gmail.com
+2025-04-02 23:31:59,488 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-02 23:32:00,096 - INFO - Using message_id: nan for anirudh.9591@gmail.com
+2025-04-02 23:32:02,705 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 23:32:02,705 - INFO - Email sent successfully to anirudh.9591@gmail.com
+2025-04-02 23:32:02,706 - INFO - Skipping anirudh.9591@gmail.com, anirudhiyengarkni98@gmail.com!!!! already sent 
+2025-04-02 23:32:02,706 - INFO - Skipping hdhanase@asu.edu!!!! already sent 
+2025-04-02 23:32:02,711 - INFO - Data successfully saved to recruiters.csv

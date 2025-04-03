@@ -10,10 +10,14 @@
 
 <p>Sincerely,</p>
 <p><strong>Anirudh Iyengar Kaniyar Narayana Iyengar</strong><br>
-Email: <a href="mailto:akaniyar@asu.edu" style="color:rgb(102,102,102); text-decoration:none;">akaniyar@asu.edu</a> | Phone: <span style="color:rgb(102,102,102);">+1-480-(919)-4286</span><br>
-<a href="https://yourportfolio.com" style="color:rgb(153,0,0); font-weight:bold; text-decoration:underline;">Portfolio</a> |
-<a href="https://www.linkedin.com/in/yourprofile" style="color:rgb(11,83,148); font-weight:bold; text-decoration:underline;">LinkedIn</a> | 
-<a href="https://github.com/yourusername" style="color:rgb(0,0,0); font-weight:bold; text-decoration:underline;">GitHub</a>
+<blockquote style="border-left: 0.8px solid rgb(102, 102, 102,0.5); padding-left: 10px; margin-left: 0; color: rgb(102, 102, 102);">
+<a href="mailto:akaniyar@asu.edu" style="color:rgb(102,102,102); text-decoration:none; font-size:12px; font-family: 'Courier New', monospace;">akaniyar@asu.edu</a>
+<span style="color:rgb(102,102,102); font-size:12px; font-family: 'Courier New', monospace;"> | </span>
+<span style="color:rgb(102,102,102); font-size:12px; font-family: 'Courier New', monospace;">+1-480-(919)-4286</span><br>
+<a href="https://anirudh6415.github.io/" style="color:rgb(153,0,0); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">Portfolio</a> |
+<a href="https://www.linkedin.com/in/anirudhiyengar-kn" style="color:rgb(11,83,148); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">LinkedIn</a> |
+<a href="https://github.com/anirudh6415" style="color:rgb(0,0,0); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">GitHub</a>
+</blockquote>
 </p>
 </p>
 </body>

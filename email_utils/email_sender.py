@@ -34,8 +34,11 @@ def clean_message_id(message_id):
         logger.warning(f"Message-ID field contains NaN, replacing with None.{message_id}")
         return None
     elif isinstance(message_id, str) and message_id.strip() == "":  # Handle empty strings
-        logger.warning("Message-ID field is empty, replacing with None.")
-        return None
+        message_id = message_id.strip()
+        if message_id == "":
+            logger.warning("Message-ID field is empty, replacing with None.")
+            return None
+        tuple(e.strip() for e in message_id.split(",")) if "," in message_id else message_id
     else:
         return message_id
 
@@ -54,48 +57,90 @@ def send_email(sender_email, sender_password, recipient_email, subject, message,
     """
     logger.info(f"Sending email to: {recipient_email}")
     try:
-        
-        server =smtplib.SMTP('smtp.gmail.com', 587)
-        server.starttls()
-        server.login(sender_email, sender_password)
-        
-        msg = MIMEMultipart()
-        msg['From'] = sender_email
-        msg['To'] = recipient_email
-        msg['Subject'] = subject
-        
-        new_message_id = make_msgid(domain='gmail.com')
+        original_message_ids = clean_message_id(message_id)
+        if isinstance(original_message_ids, tuple):
+            allmail_id = ""
+            for original_message_id in original_message_ids:
+                server =smtplib.SMTP('smtp.gmail.com', 587)
+                server.starttls()
+                server.login(sender_email, sender_password)
+                
+                msg = MIMEMultipart()
+                msg['From'] = sender_email
+                msg['To'] = recipient_email
+                msg['Subject'] = subject
+                msg.add_header('X-Priority', '3')
+                msg.add_header('X-MSMail-Priority', 'Normal')
+                msg.add_header('Importance', 'Normal')
+                new_message_id = make_msgid(domain='gmail.com')
 
-        original_message_id = clean_message_id(message_id)
-
-        msg['Message-ID'] = new_message_id
-        if original_message_id:  
-            original_message_id = str(original_message_id).strip()
-            if "@" in original_message_id:
-                logger.info(f"Referencing to message_id: {original_message_id} for {recipient_email}")
-                msg['In-Reply-To'] = original_message_id
-                msg['References'] = original_message_id
+                msg['Message-ID'] = new_message_id
+                if original_message_id:  
+                    original_message_id = str(original_message_id).strip()
+                    if "@" in original_message_id:
+                        logger.info(f"Referencing to message_id: {original_message_id} for {recipient_email}")
+                        msg['In-Reply-To'] = original_message_id
+                        msg['References'] = original_message_id
 
 
-        logger.info(f"Using message_id: {message_id} for {recipient_email}")
-        # msg.attach(MIMEText(message, 'plain'))
-        msg.attach(MIMEText(message, 'html')) #- uncomment if you want your message to be formatted
-        
-        with open(resume_path, 'rb') as file:
-            resume_attachment = MIMEApplication(file.read(), Name=resume_filename)
-        resume_attachment['Content-Disposition'] = f'attachment; filename="{resume_filename}"'
-        msg.attach(resume_attachment)
-        
-        server.sendmail(sender_email, recipient_email, msg.as_string())
-        logger.info(f"Email sent successfully to {recipient_email}")
+                logger.info(f"Using message_id: {message_id} for {recipient_email}")
+                # msg.attach(MIMEText(message, 'plain'))
+                msg.attach(MIMEText(message, 'html')) #- uncomment if you want your message to be formatted
+                
+                with open(resume_path, 'rb') as file:
+                    resume_attachment = MIMEApplication(file.read(), Name=resume_filename)
+                resume_attachment['Content-Disposition'] = f'attachment; filename="{resume_filename}"'
+                msg.attach(resume_attachment)
+                
+                server.sendmail(sender_email, recipient_email, msg.as_string())
+                logger.info(f"Email sent successfully to {recipient_email}")
 
-        # Log successfully sent email address to a text file
-        # success_log_file = f"{company_name}_successfully_sent_emails.txt"
-        # with open(success_log_file, 'a') as file:
-        #     file.write(recipient_email + '\n')
-        server.quit()
-        print(new_message_id)
-        return new_message_id
+                # Log successfully sent email address to a text file
+                # success_log_file = f"{company_name}_successfully_sent_emails.txt"
+                # with open(success_log_file, 'a') as file:
+                #     file.write(recipient_email + '\n')
+                server.quit()
+                if allmail_id:
+                    allmail_id += f", {new_message_id}"
+                else:
+                    allmail_id = new_message_id
+            return allmail_id
+        else:
+            server =smtplib.SMTP('smtp.gmail.com', 587)
+            server.starttls()
+            server.login(sender_email, sender_password)
+            
+            msg = MIMEMultipart()
+            msg['From'] = sender_email
+            msg['To'] = recipient_email
+            msg['Subject'] = subject
+            msg.add_header('X-Priority', '3')
+            msg.add_header('X-MSMail-Priority', 'Normal')
+            msg.add_header('Importance', 'Normal')
+            new_message_id = make_msgid(domain='gmail.com')
+
+            msg['Message-ID'] = new_message_id
+            if original_message_ids:  
+                original_message_ids = str(original_message_ids).strip()
+                if "@" in original_message_ids:
+                    logger.info(f"Referencing to message_id: {original_message_ids} for {recipient_email}")
+                    msg['In-Reply-To'] = original_message_ids
+                    msg['References'] = original_message_ids
+
+
+            logger.info(f"Using message_id: {message_id} for {recipient_email}")
+            # msg.attach(MIMEText(message, 'plain'))
+            msg.attach(MIMEText(message, 'html')) #- uncomment if you want your message to be formatted
+            
+            with open(resume_path, 'rb') as file:
+                resume_attachment = MIMEApplication(file.read(), Name=resume_filename)
+            resume_attachment['Content-Disposition'] = f'attachment; filename="{resume_filename}"'
+            msg.attach(resume_attachment)
+            
+            server.sendmail(sender_email, recipient_email, msg.as_string())
+            logger.info(f"Email sent successfully to {recipient_email}")
+
+            return new_message_id
     except Exception as e:
         logger.error("Error sending email:", exc_info=True)
         raise e
