@@ -1,0 +1,172 @@
+2025-04-09 20:39:41,166 - INFO - Loaded environment variables from .env file.
+2025-04-09 20:39:41,174 - INFO - Read email template.
+2025-04-09 20:39:41,174 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-09 20:39:41,315 - INFO - Generating email addresses...
+2025-04-09 20:39:41,315 - INFO - Using provided email address.
+2025-04-09 20:39:41,315 - INFO - Sending email to: theresa.stewart@pge.com
+2025-04-09 20:39:41,315 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:42,307 - INFO - Using message_id: nan for theresa.stewart@pge.com
+2025-04-09 20:39:44,397 - INFO - Email sent successfully to theresa.stewart@pge.com
+2025-04-09 20:39:44,398 - INFO - Email sent successfully to theresa.stewart@pge.com
+2025-04-09 20:39:44,398 - INFO - Generating email addresses...
+2025-04-09 20:39:44,398 - INFO - Using provided email address.
+2025-04-09 20:39:44,398 - INFO - Sending email to: kelly.macaluso@pge.com
+2025-04-09 20:39:44,398 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:45,506 - INFO - Using message_id: nan for kelly.macaluso@pge.com
+2025-04-09 20:39:47,017 - INFO - Email sent successfully to kelly.macaluso@pge.com
+2025-04-09 20:39:47,017 - INFO - Email sent successfully to kelly.macaluso@pge.com
+2025-04-09 20:39:47,017 - INFO - Generating email addresses...
+2025-04-09 20:39:47,017 - INFO - Using provided email address.
+2025-04-09 20:39:47,017 - INFO - Sending email to: hector.vergara@pge.com
+2025-04-09 20:39:47,017 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:47,652 - INFO - Using message_id: nan for hector.vergara@pge.com
+2025-04-09 20:39:49,105 - INFO - Email sent successfully to hector.vergara@pge.com
+2025-04-09 20:39:49,105 - INFO - Email sent successfully to hector.vergara@pge.com
+2025-04-09 20:39:49,105 - INFO - Generating email addresses...
+2025-04-09 20:39:49,105 - INFO - Using provided email address.
+2025-04-09 20:39:49,105 - INFO - Sending email to: brian.azevedo@pge.com
+2025-04-09 20:39:49,105 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:49,832 - INFO - Using message_id: nan for brian.azevedo@pge.com
+2025-04-09 20:39:51,256 - INFO - Email sent successfully to brian.azevedo@pge.com
+2025-04-09 20:39:51,256 - INFO - Email sent successfully to brian.azevedo@pge.com
+2025-04-09 20:39:51,256 - INFO - Generating email addresses...
+2025-04-09 20:39:51,262 - INFO - Using provided email address.
+2025-04-09 20:39:51,262 - INFO - Sending email to: J6R0@pge.com
+2025-04-09 20:39:51,262 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:52,028 - INFO - Using message_id: nan for J6R0@pge.com
+2025-04-09 20:39:53,451 - INFO - Email sent successfully to J6R0@pge.com
+2025-04-09 20:39:53,458 - INFO - Email sent successfully to J6R0@pge.com
+2025-04-09 20:39:53,459 - INFO - Generating email addresses...
+2025-04-09 20:39:53,460 - INFO - Using provided email address.
+2025-04-09 20:39:53,460 - INFO - Sending email to: greg.clouse@biospace.com
+2025-04-09 20:39:53,460 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:54,088 - INFO - Using message_id: nan for greg.clouse@biospace.com
+2025-04-09 20:39:55,446 - INFO - Email sent successfully to greg.clouse@biospace.com
+2025-04-09 20:39:55,446 - INFO - Email sent successfully to greg.clouse@biospace.com
+2025-04-09 20:39:55,446 - INFO - Generating email addresses...
+2025-04-09 20:39:55,446 - INFO - Using provided email address.
+2025-04-09 20:39:55,446 - INFO - Sending email to: kalpana.sajeev@uber.com
+2025-04-09 20:39:55,446 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:56,120 - INFO - Using message_id: nan for kalpana.sajeev@uber.com
+2025-04-09 20:39:57,642 - INFO - Email sent successfully to kalpana.sajeev@uber.com
+2025-04-09 20:39:57,644 - INFO - Email sent successfully to kalpana.sajeev@uber.com
+2025-04-09 20:39:57,644 - INFO - Generating email addresses...
+2025-04-09 20:39:57,644 - INFO - Using provided email address.
+2025-04-09 20:39:57,644 - INFO - Sending email to: anna.walker@uber.com
+2025-04-09 20:39:57,644 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:39:58,357 - INFO - Using message_id: nan for anna.walker@uber.com
+2025-04-09 20:39:59,815 - INFO - Email sent successfully to anna.walker@uber.com
+2025-04-09 20:39:59,815 - INFO - Email sent successfully to anna.walker@uber.com
+2025-04-09 20:39:59,815 - INFO - Generating email addresses...
+2025-04-09 20:39:59,815 - INFO - Using provided email address.
+2025-04-09 20:39:59,815 - INFO - Sending email to: vincent.cardoso@uber.com
+2025-04-09 20:39:59,815 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:00,512 - INFO - Using message_id: nan for vincent.cardoso@uber.com
+2025-04-09 20:40:01,980 - INFO - Email sent successfully to vincent.cardoso@uber.com
+2025-04-09 20:40:01,980 - INFO - Email sent successfully to vincent.cardoso@uber.com
+2025-04-09 20:40:01,982 - INFO - Generating email addresses...
+2025-04-09 20:40:01,982 - INFO - Using provided email address.
+2025-04-09 20:40:01,982 - INFO - Sending email to: armandojr@uber.com
+2025-04-09 20:40:01,982 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:02,608 - INFO - Using message_id: nan for armandojr@uber.com
+2025-04-09 20:40:04,144 - INFO - Email sent successfully to armandojr@uber.com
+2025-04-09 20:40:04,144 - INFO - Email sent successfully to armandojr@uber.com
+2025-04-09 20:40:04,144 - INFO - Generating email addresses...
+2025-04-09 20:40:04,146 - INFO - Using provided email address.
+2025-04-09 20:40:04,146 - INFO - Sending email to: matt.body@uber.com
+2025-04-09 20:40:04,146 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:04,737 - INFO - Using message_id: nan for matt.body@uber.com
+2025-04-09 20:40:06,120 - INFO - Email sent successfully to matt.body@uber.com
+2025-04-09 20:40:06,120 - INFO - Email sent successfully to matt.body@uber.com
+2025-04-09 20:40:06,120 - INFO - Sending email to: mattb@uber.com
+2025-04-09 20:40:06,717 - INFO - Referencing to message_id: <174425640473.53076.13230531501071142275@gmail.com> for mattb@uber.com
+2025-04-09 20:40:06,717 - INFO - Using message_id: <174425640473.53076.13230531501071142275@gmail.com> for mattb@uber.com
+2025-04-09 20:40:08,341 - INFO - Email sent successfully to mattb@uber.com
+2025-04-09 20:40:08,341 - INFO - Email sent successfully to mattb@uber.com
+2025-04-09 20:40:08,341 - INFO - Generating email addresses...
+2025-04-09 20:40:08,341 - INFO - Using provided email address.
+2025-04-09 20:40:08,341 - INFO - Sending email to: stricklink@uber.com
+2025-04-09 20:40:08,341 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:08,976 - INFO - Using message_id: nan for stricklink@uber.com
+2025-04-09 20:40:10,350 - INFO - Email sent successfully to stricklink@uber.com
+2025-04-09 20:40:10,350 - INFO - Email sent successfully to stricklink@uber.com
+2025-04-09 20:40:10,350 - INFO - Generating email addresses...
+2025-04-09 20:40:10,350 - INFO - Using provided email address.
+2025-04-09 20:40:10,350 - INFO - Sending email to: justin.l.black@peraton.com
+2025-04-09 20:40:10,350 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:11,008 - INFO - Using message_id: nan for justin.l.black@peraton.com
+2025-04-09 20:40:12,982 - INFO - Email sent successfully to justin.l.black@peraton.com
+2025-04-09 20:40:12,982 - INFO - Email sent successfully to justin.l.black@peraton.com
+2025-04-09 20:40:12,982 - INFO - Generating email addresses...
+2025-04-09 20:40:12,982 - INFO - Using provided email address.
+2025-04-09 20:40:12,982 - INFO - Sending email to: mariadelcarmen.santiago@popular.com
+2025-04-09 20:40:12,982 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:13,620 - INFO - Using message_id: nan for mariadelcarmen.santiago@popular.com
+2025-04-09 20:40:15,170 - INFO - Email sent successfully to mariadelcarmen.santiago@popular.com
+2025-04-09 20:40:15,170 - INFO - Email sent successfully to mariadelcarmen.santiago@popular.com
+2025-04-09 20:40:15,170 - INFO - Generating email addresses...
+2025-04-09 20:40:15,170 - INFO - Using provided email address.
+2025-04-09 20:40:15,170 - INFO - Sending email to: terivelisse.cotto@popular.com
+2025-04-09 20:40:15,170 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:15,914 - INFO - Using message_id: nan for terivelisse.cotto@popular.com
+2025-04-09 20:40:17,385 - INFO - Email sent successfully to terivelisse.cotto@popular.com
+2025-04-09 20:40:17,385 - INFO - Email sent successfully to terivelisse.cotto@popular.com
+2025-04-09 20:40:17,385 - INFO - Generating email addresses...
+2025-04-09 20:40:17,385 - INFO - Using provided email address.
+2025-04-09 20:40:17,385 - INFO - Sending email to: jcrespo@heartlandvetpartners.com
+2025-04-09 20:40:17,385 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:18,133 - INFO - Using message_id: nan for jcrespo@heartlandvetpartners.com
+2025-04-09 20:40:19,853 - INFO - Email sent successfully to jcrespo@heartlandvetpartners.com
+2025-04-09 20:40:19,853 - INFO - Email sent successfully to jcrespo@heartlandvetpartners.com
+2025-04-09 20:40:19,853 - INFO - Generating email addresses...
+2025-04-09 20:40:19,853 - INFO - Using provided email address.
+2025-04-09 20:40:19,861 - INFO - Sending email to: jchavez@heartlandvetpartners.com
+2025-04-09 20:40:19,861 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:20,503 - INFO - Using message_id: nan for jchavez@heartlandvetpartners.com
+2025-04-09 20:40:21,983 - INFO - Email sent successfully to jchavez@heartlandvetpartners.com
+2025-04-09 20:40:21,983 - INFO - Email sent successfully to jchavez@heartlandvetpartners.com
+2025-04-09 20:40:21,983 - INFO - Generating email addresses...
+2025-04-09 20:40:21,983 - INFO - Using provided email address.
+2025-04-09 20:40:21,983 - INFO - Sending email to: sylvia.ashley@weyerhaeuser.com
+2025-04-09 20:40:21,983 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:22,616 - INFO - Using message_id: nan for sylvia.ashley@weyerhaeuser.com
+2025-04-09 20:40:24,144 - INFO - Email sent successfully to sylvia.ashley@weyerhaeuser.com
+2025-04-09 20:40:24,144 - INFO - Email sent successfully to sylvia.ashley@weyerhaeuser.com
+2025-04-09 20:40:24,144 - INFO - Generating email addresses...
+2025-04-09 20:40:24,144 - INFO - Using provided email address.
+2025-04-09 20:40:24,144 - INFO - Sending email to: katherine.furcht@weyerhaeuser.com
+2025-04-09 20:40:24,144 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:25,044 - INFO - Using message_id: nan for katherine.furcht@weyerhaeuser.com
+2025-04-09 20:40:26,427 - INFO - Email sent successfully to katherine.furcht@weyerhaeuser.com
+2025-04-09 20:40:26,427 - INFO - Email sent successfully to katherine.furcht@weyerhaeuser.com
+2025-04-09 20:40:26,427 - INFO - Generating email addresses...
+2025-04-09 20:40:26,427 - INFO - Using provided email address.
+2025-04-09 20:40:26,427 - INFO - Sending email to: alexa.mercurio@weyerhaeuser.com
+2025-04-09 20:40:26,427 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-09 20:40:27,366 - INFO - Using message_id: nan for alexa.mercurio@weyerhaeuser.com
+2025-04-09 20:40:28,777 - INFO - Email sent successfully to alexa.mercurio@weyerhaeuser.com
+2025-04-09 20:40:28,778 - INFO - Email sent successfully to alexa.mercurio@weyerhaeuser.com
+2025-04-09 20:43:52,075 - INFO - Loaded environment variables from .env file.
+2025-04-09 20:43:52,077 - INFO - Read email template.
+2025-04-09 20:43:52,077 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-09 20:43:52,089 - INFO - Skipping theresa.stewart@pge.com!!!! already sent 
+2025-04-09 20:43:52,089 - INFO - Skipping kelly.macaluso@pge.com!!!! already sent 
+2025-04-09 20:43:52,089 - INFO - Skipping hector.vergara@pge.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping brian.azevedo@pge.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping J6R0@pge.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping greg.clouse@biospace.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping kalpana.sajeev@uber.com !!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping anna.walker@uber.com !!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping vincent.cardoso@uber.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping armandojr@uber.com !!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping matt.body@uber.com,mattb@uber.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping stricklink@uber.com!!!! already sent 
+2025-04-09 20:43:52,091 - INFO - Skipping justin.l.black@peraton.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping mariadelcarmen.santiago@popular.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping terivelisse.cotto@popular.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping jcrespo@heartlandvetpartners.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping jchavez@heartlandvetpartners.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping sylvia.ashley@weyerhaeuser.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping katherine.furcht@weyerhaeuser.com !!!! already sent 
+2025-04-09 20:43:52,092 - INFO - Skipping alexa.mercurio@weyerhaeuser.com !!!! already sent 
+2025-04-09 20:43:52,096 - INFO - Data successfully saved to recruiters.csv

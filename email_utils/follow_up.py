@@ -16,7 +16,7 @@ import pandas as pd
 from logger import get_logger
 logger = get_logger(__name__)
 
-def send_follow_up_email():
+def send_follow_up_email(professor):
     """
     Sends follow-up emails to recipients.
 
@@ -25,10 +25,10 @@ def send_follow_up_email():
 
     """
     sender_email, sender_password = load_email_settings()
-    email_template = read_email_template()
-    follow_up_template = read_follow_up_template()
+    email_template = read_email_template(professor)
+    follow_up_template = read_follow_up_template(professor)
     # data = read_excel_data()
-    data = read_csv_data()
+    data = read_csv_data(professor)
     if 'follow_up' not in data.columns:
         data['follow_up'] = ""
 
@@ -45,7 +45,10 @@ def send_follow_up_email():
                 for email in generated_emails:
                     if email:
                         # print(email)
-                        subject = f"Re: Exploring Full-Time {position} Roles at {company_name}"
+                        if professor : 
+                            subject = f"Re: Interseted in {position} Roles at {company_name}"
+                        else: 
+                            subject = f"Re: Exploring Full-Time {position} Roles at {company_name}"
                         message = follow_up_template.format(first_name=first_name, last_name=last_name, email=email,
                                                         company_name=company_name,position = position,designation=designation if designation else "esteemed employee")
                         # Add additional string after "original email"
@@ -67,7 +70,10 @@ def send_follow_up_email():
                         logger.warning("Skipping follow-up email: Unable to generate recipient email address.")
             elif generated_emails:
                 email = generated_emails
-                subject = f"Re: [Anirudh]: Exploring Full-Time {position} Roles at {company_name}"
+                if professor : 
+                    subject = f"Re: Interseted in {position} Roles at {company_name}"
+                else: 
+                    subject = f"Re: Exploring Full-Time {position} Roles at {company_name}"
                 message = follow_up_template.format(first_name=first_name, last_name=last_name, email=email,
                                                 company_name=company_name,position = position,designation=designation if designation else "esteemed employee")
                 # Add additional string after "original email"
@@ -84,4 +90,4 @@ def send_follow_up_email():
                 data.loc[index,'message_id'] = message_id
         else:
             logger.info(f"Skipping the follow-up for {data.loc[index, 'Email']}!!!! already sent ")
-    save_csv_data(data)
+    save_csv_data(data,professor)

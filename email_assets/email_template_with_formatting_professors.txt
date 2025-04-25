@@ -1,0 +1,38 @@
+<html>
+  <body style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">
+    <p>Dear Professor {first_name} {last_name},</p>
+
+    <p>I hope you’re doing well. My name is <strong>Anirudh Iyengar</strong>. I recently graduated with an <strong>MS in AI and Robotics from ASU (Dec 2024)</strong>and I am very interested in applying for a <strong>PhD</strong> under your guidance. I’ll keep this brief as I know you’re busy. </p>
+
+    <p>Why I’m reaching out:</p>
+    <ul>
+        <li>1 YOE as Deep Learning Research Assistant @ ASU (Contributed to 2 <strong><a href="https://arxiv.org/abs/2503.09860">papers</a></strong>)</li>
+        <li>Data Science experience | 2 YOE @ HIB</li>
+        <li>MLE Intern @ Synapse Labs.ai (Deployed explainable ML product for a real client on AWS)</li>
+        <li>Student Research Trainee @ CAIR, DRDO</li>
+        <li>Research Assistant @ Dayananda Sagar University</li> 
+    </ul>
+
+    <p>
+      Your work on {designation} strongly aligns with my research interests.</p> 
+    <p><u>I'm more than willing to <strong>volunteer for 3–4 months</strong> to understand the lab's workflow and demonstrate my commitment and capabilities. I'm confident that I can prove myself and earn a more formal role if given the chance.</u>
+    </p>
+
+    <p>
+      Thank you for considering my note. <u>I’d be grateful for a brief conversation if possible.</u>
+    </p>
+
+    <p>Sincerely,</p>
+    <p><strong>Anirudh Iyengar Kaniyar Narayana Iyengar</strong><br>
+    <blockquote style="border-left: 0.8px solid rgb(102, 102, 102,0.5); padding-left: 10px; margin-left: 0; color: rgb(102, 102, 102);">
+    <a href="mailto:akaniyar@asu.edu" style="color:rgb(102,102,102); text-decoration:none; font-size:12px; font-family: 'Courier New', monospace;">akaniyar@asu.edu</a>
+    <span style="color:rgb(102,102,102); font-size:12px; font-family: 'Courier New', monospace;"> | </span>
+    <span style="color:rgb(102,102,102); font-size:12px; font-family: 'Courier New', monospace;">+1-480-(919)-4286</span><br>
+    <a href="https://anirudh6415.github.io/" style="color:rgb(153,0,0); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">Portfolio</a> |
+    <a href="https://www.linkedin.com/in/anirudhiyengar-kn" style="color:rgb(11,83,148); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">LinkedIn</a> |
+    <a href="https://github.com/anirudh6415" style="color:rgb(0,0,0); font-weight:bold; text-decoration:underline; font-size:12px; font-family: 'Courier New', monospace;">GitHub</a>
+    </blockquote>
+    </p>
+    </p>
+  </body>
+</html>

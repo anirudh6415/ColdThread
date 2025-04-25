@@ -25,26 +25,34 @@ def load_email_settings():
     logger.info("Loaded environment variables from .env file.")
     return os.getenv('EMAIL_USERNAME'), os.getenv('EMAIL_PASSWORD')
 
-def read_email_template():
+def read_email_template(professor = False):
     """
     Reads the email template from a file.
 
     Returns:
         str: Email template.
     """
-    with open('email_assets/email_template_with_formatting.txt', 'r', encoding='utf-8') as file:
+    if professor :
+        file_name = 'email_assets/email_template_with_formatting_professors.txt'
+    else :
+        file_name = 'email_assets/email_template_with_formatting.txt'
+    with open(file_name, 'r', encoding='utf-8') as file:
         email_template = file.read()
     logger.info("Read email template.")
     return email_template
 
-def read_follow_up_template():
+def read_follow_up_template(professor = False):
     """
     Reads the follow-up email template from a file.
 
     Returns:
         str: Follow-up email template.
     """
-    with open('email_assets/follow_up_template.txt', 'r') as file:
+    if professor :
+        file_name = 'email_assets/follow_up_template_professors.txt'
+    else :
+        file_name = 'email_assets/follow_up_template.txt'
+    with open(file_name, 'r') as file:
         follow_up_template = file.read()
     logger.info("Read follow-up email template.")
     return follow_up_template
@@ -63,19 +71,21 @@ def read_excel_data():
 
 
 
-def read_csv_data():
+def read_csv_data(professor = False):
     """
     Reads data from a CSV file.
 
     Returns:
         list: List of tuples containing data read from the CSV file.
     """
-    csv_file = 'recruiters.csv'  # Update the file path to the CSV
+    if professor :
+        csv_file = 'professors.csv'
+    else :
+        csv_file = 'recruiters.csv'
     logger.info(f"Reading data from CSV file: '{csv_file}'")
     return pd.read_csv(csv_file, dtype=str)
 
-
-def save_csv_data(data, filename='recruiters.csv'):
+def save_csv_data(data, professor):
     """
     Saves data to a CSV file.
 
@@ -86,6 +96,10 @@ def save_csv_data(data, filename='recruiters.csv'):
     Returns:
         None
     """
+    if professor :
+        filename = 'professors.csv'
+    else :
+        filename = 'recruiters.csv'
         # Check if data is empty
     if isinstance(data, pd.DataFrame):
         if data.empty:

@@ -1,0 +1,264 @@
+2025-04-11 13:16:37,272 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:16:37,276 - INFO - Read email template.
+2025-04-11 13:16:37,276 - INFO - Reading data from CSV file: 'professor.csv'
+2025-04-11 13:17:05,769 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:17:05,769 - INFO - Read email template.
+2025-04-11 13:17:05,769 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:17:05,790 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:17:05,790 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:17:05,791 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:17:05,791 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-11 13:17:22,170 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:17:22,170 - INFO - Read email template.
+2025-04-11 13:17:22,170 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:17:22,174 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:17:22,174 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:17:22,174 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:17:22,175 - INFO - Skipping akaniyar@asu.edu!!!! already sent 
+2025-04-11 13:17:22,178 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:17:39,667 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:17:39,668 - INFO - Read email template.
+2025-04-11 13:17:39,668 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:17:39,674 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:17:39,674 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:17:39,674 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:17:39,674 - INFO - Generating email addresses...
+2025-04-11 13:17:39,676 - INFO - Using provided email address.
+2025-04-11 13:17:39,676 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-11 13:17:39,676 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:17:40,575 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-11 13:17:42,491 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:17:42,491 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:17:42,494 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:25:05,309 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:25:05,309 - INFO - Read email template.
+2025-04-11 13:25:05,309 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:25:05,322 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:25:05,322 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:25:05,322 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:25:05,322 - INFO - Generating email addresses...
+2025-04-11 13:25:05,323 - INFO - Using provided email address.
+2025-04-11 13:25:05,323 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-11 13:25:05,323 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:25:06,364 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-11 13:25:07,965 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:25:07,966 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:25:07,974 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:26:18,810 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:26:18,811 - INFO - Read email template.
+2025-04-11 13:26:18,811 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-04-11 13:26:18,818 - INFO - Skipping theresa.stewart@pge.com!!!! already sent 
+2025-04-11 13:26:18,819 - INFO - Skipping kelly.macaluso@pge.com!!!! already sent 
+2025-04-11 13:26:18,819 - INFO - Skipping hector.vergara@pge.com!!!! already sent 
+2025-04-11 13:26:18,819 - INFO - Skipping brian.azevedo@pge.com!!!! already sent 
+2025-04-11 13:26:18,819 - INFO - Skipping J6R0@pge.com!!!! already sent 
+2025-04-11 13:26:18,819 - INFO - Skipping greg.clouse@biospace.com!!!! already sent 
+2025-04-11 13:26:18,820 - INFO - Skipping kalpana.sajeev@uber.com !!!! already sent 
+2025-04-11 13:26:18,820 - INFO - Skipping anna.walker@uber.com !!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping vincent.cardoso@uber.com!!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping armandojr@uber.com !!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping matt.body@uber.com,mattb@uber.com!!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping stricklink@uber.com!!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping justin.l.black@peraton.com !!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping mariadelcarmen.santiago@popular.com !!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping terivelisse.cotto@popular.com !!!! already sent 
+2025-04-11 13:26:18,821 - INFO - Skipping jcrespo@heartlandvetpartners.com !!!! already sent 
+2025-04-11 13:26:18,823 - INFO - Skipping jchavez@heartlandvetpartners.com !!!! already sent 
+2025-04-11 13:26:18,823 - INFO - Skipping sylvia.ashley@weyerhaeuser.com !!!! already sent 
+2025-04-11 13:26:18,823 - INFO - Skipping katherine.furcht@weyerhaeuser.com !!!! already sent 
+2025-04-11 13:26:18,823 - INFO - Skipping alexa.mercurio@weyerhaeuser.com !!!! already sent 
+2025-04-11 13:26:18,823 - INFO - Skipping anna.goranson@terraytx.com!!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping marissa.ray@consultusa.com!!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping scarpenter@uwcu.org !!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping ayanna.wade@sensortower.com!!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping jennifer.heffernan@sensortower.com !!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping alexandr.plashchinsky@senortower.com!!!! already sent 
+2025-04-11 13:26:18,824 - INFO - Skipping dustin.long@sensortower.com!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping charlene@harvey.ai!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping ally@harvey.ai!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping brian@harvey.ai!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping amber.nelson@bobcat.com!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping amber.nelson@doosan.com!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping alexander.bremer@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,825 - INFO - Skipping tiffany.wooner@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping kelly.vannier@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping ernest.torres@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping reilly.hughes@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping deb.smith@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping victoria.jackson@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping KaThomps@Amergis.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping lauren.moeller@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping jamie.sampson@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,826 - INFO - Skipping katie.kremmin@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping lainie.marte@bestbuy.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping juli.s.warren@walgreens.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping misha.lang1@walgreens.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping nicole.lavallie@walgreens.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping amanda.jarnow@walgreens.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping irwin.denyse@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping graham.adriana@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping jain.sonal@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,827 - INFO - Skipping garcia.vanessa@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,828 - INFO - Skipping runals.teresa@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,828 - INFO - Skipping mehta.srushti@aaa-calif.com!!!! already sent 
+2025-04-11 13:26:18,828 - INFO - Generating email addresses...
+2025-04-11 13:26:18,828 - INFO - Using provided email address.
+2025-04-11 13:26:18,829 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-11 13:26:18,829 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:26:19,526 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-11 13:26:21,000 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:26:21,001 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:26:21,005 - INFO - Data successfully saved to recruiters.csv
+2025-04-11 13:49:19,649 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:49:19,651 - INFO - Read email template.
+2025-04-11 13:49:19,651 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:49:19,664 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:49:19,665 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:49:19,665 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:49:19,665 - INFO - Generating email addresses...
+2025-04-11 13:49:19,665 - INFO - Using provided email address.
+2025-04-11 13:49:19,665 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-11 13:49:19,665 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:49:20,478 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-11 13:49:22,091 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:49:22,092 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:49:22,095 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:50:58,843 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:50:58,843 - INFO - Read email template.
+2025-04-11 13:50:58,843 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:50:58,849 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:50:58,849 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:50:58,849 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:50:58,849 - INFO - Generating email addresses...
+2025-04-11 13:50:58,849 - INFO - Using provided email address.
+2025-04-11 13:50:58,849 - INFO - Sending email to: akaniyar@asu.edu
+2025-04-11 13:50:58,849 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:50:59,703 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-04-11 13:51:01,351 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:51:01,352 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-04-11 13:51:01,359 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:53:08,835 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:53:08,837 - INFO - Read email template.
+2025-04-11 13:53:08,837 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:53:08,852 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:53:08,852 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:53:08,852 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:53:08,853 - INFO - Generating email addresses...
+2025-04-11 13:53:08,853 - INFO - Using provided email address.
+2025-04-11 13:53:08,853 - INFO - Sending email to: hdhanase@asu.edu
+2025-04-11 13:53:08,854 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:53:09,703 - INFO - Using message_id: nan for hdhanase@asu.edu
+2025-04-11 13:53:11,237 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-11 13:53:11,238 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-11 13:53:11,243 - INFO - Data successfully saved to professors.csv
+2025-04-11 13:55:20,349 - INFO - Loaded environment variables from .env file.
+2025-04-11 13:55:20,350 - INFO - Read email template.
+2025-04-11 13:55:20,350 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 13:55:20,358 - INFO - Skipping jaron.mink@asu.edu!!!! already sent 
+2025-04-11 13:55:20,359 - INFO - Skipping benzhou@asu.edu!!!! already sent 
+2025-04-11 13:55:20,359 - INFO - Skipping vgupt140@asu.edu!!!! already sent 
+2025-04-11 13:55:20,359 - INFO - Generating email addresses...
+2025-04-11 13:55:20,360 - INFO - Using provided email address.
+2025-04-11 13:55:20,360 - INFO - Sending email to: hdhanase@asu.edu
+2025-04-11 13:55:20,360 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 13:55:21,051 - INFO - Using message_id: nan for hdhanase@asu.edu
+2025-04-11 13:55:22,712 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-11 13:55:22,713 - INFO - Email sent successfully to hdhanase@asu.edu
+2025-04-11 13:55:22,722 - INFO - Data successfully saved to professors.csv
+2025-04-11 15:07:15,744 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:07:15,745 - INFO - Read email template.
+2025-04-11 15:07:15,745 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 15:07:58,399 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:07:58,400 - INFO - Read email template.
+2025-04-11 15:07:58,400 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 15:09:15,121 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:09:15,122 - INFO - Read email template.
+2025-04-11 15:09:15,122 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 15:10:09,572 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:10:09,572 - INFO - Read email template.
+2025-04-11 15:11:49,347 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:11:49,347 - INFO - Read email template.
+2025-04-11 15:12:55,367 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:12:55,368 - INFO - Read email template.
+2025-04-11 15:12:55,368 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 15:14:30,765 - INFO - Loaded environment variables from .env file.
+2025-04-11 15:14:30,765 - INFO - Read email template.
+2025-04-11 15:14:30,766 - INFO - Reading data from CSV file: 'professors.csv'
+2025-04-11 15:14:30,806 - INFO - Generating email addresses...
+2025-04-11 15:14:30,807 - INFO - Using provided email address.
+2025-04-11 15:14:30,807 - INFO - Sending email to: jaron.mink@asu.edu
+2025-04-11 15:14:30,807 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:31,911 - INFO - Using message_id: nan for jaron.mink@asu.edu
+2025-04-11 15:14:33,656 - INFO - Email sent successfully to jaron.mink@asu.edu
+2025-04-11 15:14:33,656 - INFO - Email sent successfully to jaron.mink@asu.edu
+2025-04-11 15:14:33,658 - INFO - Generating email addresses...
+2025-04-11 15:14:33,658 - INFO - Using provided email address.
+2025-04-11 15:14:33,658 - INFO - Sending email to: benzhou@asu.edu
+2025-04-11 15:14:33,658 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:34,527 - INFO - Using message_id: nan for benzhou@asu.edu
+2025-04-11 15:14:36,251 - INFO - Email sent successfully to benzhou@asu.edu
+2025-04-11 15:14:36,252 - INFO - Email sent successfully to benzhou@asu.edu
+2025-04-11 15:14:36,253 - INFO - Generating email addresses...
+2025-04-11 15:14:36,253 - INFO - Using provided email address.
+2025-04-11 15:14:36,253 - INFO - Sending email to: HDavulcu@asu.edu
+2025-04-11 15:14:36,253 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:36,968 - INFO - Using message_id: nan for HDavulcu@asu.edu
+2025-04-11 15:14:38,528 - INFO - Email sent successfully to HDavulcu@asu.edu
+2025-04-11 15:14:38,529 - INFO - Email sent successfully to HDavulcu@asu.edu
+2025-04-11 15:14:38,530 - INFO - Generating email addresses...
+2025-04-11 15:14:38,531 - INFO - Using provided email address.
+2025-04-11 15:14:38,532 - INFO - Sending email to: ransalu@asu.edu
+2025-04-11 15:14:38,532 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:39,266 - INFO - Using message_id: nan for ransalu@asu.edu
+2025-04-11 15:14:40,852 - INFO - Email sent successfully to ransalu@asu.edu
+2025-04-11 15:14:40,852 - INFO - Email sent successfully to ransalu@asu.edu
+2025-04-11 15:14:40,852 - INFO - Generating email addresses...
+2025-04-11 15:14:40,854 - INFO - Using provided email address.
+2025-04-11 15:14:40,854 - INFO - Sending email to: Lindsay.Sanneman@asu.edu
+2025-04-11 15:14:40,854 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:41,594 - INFO - Using message_id: nan for Lindsay.Sanneman@asu.edu
+2025-04-11 15:14:43,113 - INFO - Email sent successfully to Lindsay.Sanneman@asu.edu
+2025-04-11 15:14:43,114 - INFO - Email sent successfully to Lindsay.Sanneman@asu.edu
+2025-04-11 15:14:43,115 - INFO - Generating email addresses...
+2025-04-11 15:14:43,115 - INFO - Using provided email address.
+2025-04-11 15:14:43,115 - INFO - Sending email to: hbenamor@asu.edu
+2025-04-11 15:14:43,116 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:43,779 - INFO - Using message_id: nan for hbenamor@asu.edu
+2025-04-11 15:14:45,490 - INFO - Email sent successfully to hbenamor@asu.edu
+2025-04-11 15:14:45,492 - INFO - Email sent successfully to hbenamor@asu.edu
+2025-04-11 15:14:45,494 - INFO - Generating email addresses...
+2025-04-11 15:14:45,494 - INFO - Using provided email address.
+2025-04-11 15:14:45,495 - INFO - Sending email to: Yanjie.Fu@asu.edu
+2025-04-11 15:14:45,495 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:46,160 - INFO - Using message_id: nan for Yanjie.Fu@asu.edu
+2025-04-11 15:14:47,580 - INFO - Email sent successfully to Yanjie.Fu@asu.edu
+2025-04-11 15:14:47,581 - INFO - Email sent successfully to Yanjie.Fu@asu.edu
+2025-04-11 15:14:47,581 - INFO - Generating email addresses...
+2025-04-11 15:14:47,581 - INFO - Using provided email address.
+2025-04-11 15:14:47,581 - INFO - Sending email to: parupudi@asu.edu
+2025-04-11 15:14:47,581 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:48,256 - INFO - Using message_id: nan for parupudi@asu.edu
+2025-04-11 15:14:49,875 - INFO - Email sent successfully to parupudi@asu.edu
+2025-04-11 15:14:49,876 - INFO - Email sent successfully to parupudi@asu.edu
+2025-04-11 15:14:49,877 - INFO - Generating email addresses...
+2025-04-11 15:14:49,877 - INFO - Using provided email address.
+2025-04-11 15:14:49,877 - INFO - Sending email to: atarano@asu.edu
+2025-04-11 15:14:49,878 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:50,557 - INFO - Using message_id: nan for atarano@asu.edu
+2025-04-11 15:14:52,248 - INFO - Email sent successfully to atarano@asu.edu
+2025-04-11 15:14:52,249 - INFO - Email sent successfully to atarano@asu.edu
+2025-04-11 15:14:52,249 - INFO - Generating email addresses...
+2025-04-11 15:14:52,249 - INFO - Using provided email address.
+2025-04-11 15:14:52,249 - INFO - Sending email to: jia.zou@asu.edu
+2025-04-11 15:14:52,250 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:52,895 - INFO - Using message_id: nan for jia.zou@asu.edu
+2025-04-11 15:14:54,372 - INFO - Email sent successfully to jia.zou@asu.edu
+2025-04-11 15:14:54,372 - INFO - Email sent successfully to jia.zou@asu.edu
+2025-04-11 15:14:54,372 - INFO - Generating email addresses...
+2025-04-11 15:14:54,373 - INFO - Using provided email address.
+2025-04-11 15:14:54,373 - INFO - Sending email to: mingzhao@asu.edu
+2025-04-11 15:14:54,373 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-04-11 15:14:55,104 - INFO - Using message_id: nan for mingzhao@asu.edu
+2025-04-11 15:14:56,679 - INFO - Email sent successfully to mingzhao@asu.edu
+2025-04-11 15:14:56,680 - INFO - Email sent successfully to mingzhao@asu.edu
+2025-04-11 15:14:56,690 - INFO - Data successfully saved to professors.csv

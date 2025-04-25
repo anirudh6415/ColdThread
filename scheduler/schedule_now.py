@@ -11,7 +11,7 @@ logger = get_logger(__name__)
 MAX_RETRIES = 3
 
 
-def send_emails_now(batch_size=10):
+def send_emails_now(professor,batch_size=10):
     """
     Sends emails immediately.
 
@@ -19,9 +19,10 @@ def send_emails_now(batch_size=10):
         batch_size (int): Number of emails to send in each batch.
     """
     sender_email, sender_password = load_email_settings()
-    email_template = read_email_template()
+    email_template = read_email_template(professor)
     # data = read_excel_data()
-    data = read_csv_data()
+    data = read_csv_data(professor)
+    print(data)
     if 'message_id'not in data.columns:
         data['message_id'] = ""
     if 'done' not in data.columns:
@@ -40,14 +41,19 @@ def send_emails_now(batch_size=10):
                     # try:
                         first_name, last_name, email, company_name, designation, position,message_id,_,_ = row
                         # print(first_name, last_name, email, company_name, designation, position)
-                        if position is None:
+                        if position is None and professor == False:
                             position = "Machine Learning Engineer/Data Scientist"
+                        elif professor:
+                            position = "PhD postion"
 
                         recipient_emails = generate_email_address(first_name, last_name, email, company_name)
                         # print(recipient_emails)
                         if isinstance(recipient_emails, tuple):
                             for recipient_email in recipient_emails:
-                                subject = f"[Anirudh]: Exploring Full-Time {position} Roles at {company_name}"
+                                if professor : 
+                                    subject = f"[Anirudh]: Interseted in {position} Roles at {company_name}"
+                                else: 
+                                    subject = f"[Anirudh]: Exploring Full-Time {position} Role at {company_name}"
                                 message = email_template.format(first_name=first_name, last_name=last_name, email=recipient_email,
                                                                 company_name=company_name,position = position, designation=designation if designation else "esteemed employee")
                                 message_id = send_email(sender_email, sender_password, recipient_email, subject, message, company_name,message_id)
@@ -60,7 +66,10 @@ def send_emails_now(batch_size=10):
                                     data.loc[index, 'message_id'] = message_id
                                 
                         elif recipient_emails:
-                            subject = f"[Anirudh]: Exploring Full-Time {position} at {company_name}"
+                            if professor : 
+                                subject = f"[Anirudh]: Interseted in {position} Roles at {company_name}"
+                            else: 
+                                subject = f"[Anirudh]: Exploring Full-Time {position} Role at {company_name}"
                             message = email_template.format(first_name=first_name, last_name=last_name, email=recipient_emails,
                                                             company_name=company_name, position = position, designation=designation if designation else "esteemed employee")
                             message_id = send_email(sender_email, sender_password, recipient_emails, subject, message, company_name,message_id)
@@ -81,4 +90,4 @@ def send_emails_now(batch_size=10):
                     logger.error("Max retries reached. Unable to send email.")
             else:
                 logger.info(f"Skipping {data.loc[index, 'Email']}!!!! already sent ")
-    save_csv_data(data)
+    save_csv_data(data,professor)
