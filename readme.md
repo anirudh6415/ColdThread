@@ -108,14 +108,6 @@ This project uses Gmail App Passwords for authentication. Make sure **2FA is ena
 
 ---
 
-## 👨‍💻 Author
-
-Anirudh Iyengar  
-Machine Learning Intern @ Synapse Labs  
-MS in Robotics and AI, Arizona State University
-
----
-
 ## 📝 License
 
 This project is for educational and personal outreach purposes only.
