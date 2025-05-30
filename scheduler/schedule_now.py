@@ -10,6 +10,21 @@ from logger import get_logger
 logger = get_logger(__name__)
 MAX_RETRIES = 3
 
+def standardize_role(position: str) -> str:
+    position = position.lower()
+
+    if "data engineer" in position:
+        return "Data Engineer"
+    elif "data analyst" in position:
+        return "Data Analyst"
+    elif "data scientist" in position:
+        return "Data Scientist"
+    elif "machine learning" in position or "ai engineer" in position or "artificial intelligence" in position:
+        return "ML Engineer"
+    elif "software engineer" in position or "software developer" in position:
+        return "Software Engineer"
+    else:
+        return None
 
 def send_emails_now(professor,batch_size=10):
     """
@@ -40,11 +55,14 @@ def send_emails_now(professor,batch_size=10):
                 while retries < MAX_RETRIES:
                     # try:
                         first_name, last_name, email, company_name, designation, position,message_id,_,_ = row
+                        
+                        stand_position = standardize_role(position)
                         # print(first_name, last_name, email, company_name, designation, position)
-                        if position is None and professor == False:
-                            position = "Machine Learning Engineer/Data Scientist"
+                        if position is None and professor == False or stand_position is None:
+                            stand_position = "Machine Learning Engineer/Data Scientist"
                         elif professor:
-                            position = "PhD postion"
+                            stand_position = "PhD postion"
+
 
                         recipient_emails = generate_email_address(first_name, last_name, email, company_name)
                         # print(recipient_emails)
@@ -55,8 +73,10 @@ def send_emails_now(professor,batch_size=10):
                                 else: 
                                     subject = f"[Anirudh]: Exploring Full-Time {position} Role at {company_name}"
                                 message = email_template.format(first_name=first_name, last_name=last_name, email=recipient_email,
-                                                                company_name=company_name,position = position, designation=designation if designation else "esteemed employee")
-                                message_id = send_email(sender_email, sender_password, recipient_email, subject, message, company_name,message_id)
+                                                                company_name=company_name,position = stand_position, designation=designation if designation else "esteemed employee")
+                                
+                                message_id = send_email(sender_email, sender_password, recipient_email, subject, message, company_name, position= position,message_id=message_id)
+                                
                                 logger.info(f"Email sent successfully to {recipient_email}")
 
                                 data.loc[index, 'done'] = 'sent'
@@ -71,8 +91,8 @@ def send_emails_now(professor,batch_size=10):
                             else: 
                                 subject = f"[Anirudh]: Exploring Full-Time {position} Role at {company_name}"
                             message = email_template.format(first_name=first_name, last_name=last_name, email=recipient_emails,
-                                                            company_name=company_name, position = position, designation=designation if designation else "esteemed employee")
-                            message_id = send_email(sender_email, sender_password, recipient_emails, subject, message, company_name,message_id)
+                                                            company_name=company_name, position = stand_position, designation=designation if designation else "esteemed employee")
+                            message_id = send_email(sender_email, sender_password, recipient_emails, subject, message, company_name,position= position,message_id=message_id)
                             logger.info(f"Email sent successfully to {recipient_emails}")
 
                             data.loc[index, 'done'] = 'sent'

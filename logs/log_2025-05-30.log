@@ -1,0 +1,1059 @@
+2025-05-30 14:12:35,167 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:12:35,249 - INFO - Read email template.
+2025-05-30 14:12:35,249 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:12:35,319 - INFO - Skipping theresa.stewart@pge.com!!!! already sent 
+2025-05-30 14:12:35,320 - INFO - Skipping kelly.macaluso@pge.com!!!! already sent 
+2025-05-30 14:12:35,320 - INFO - Skipping hector.vergara@pge.com!!!! already sent 
+2025-05-30 14:12:35,321 - INFO - Skipping brian.azevedo@pge.com!!!! already sent 
+2025-05-30 14:12:35,321 - INFO - Skipping J6R0@pge.com!!!! already sent 
+2025-05-30 14:12:35,321 - INFO - Skipping greg.clouse@biospace.com!!!! already sent 
+2025-05-30 14:12:35,321 - INFO - Skipping kalpana.sajeev@uber.com !!!! already sent 
+2025-05-30 14:12:35,322 - INFO - Skipping anna.walker@uber.com !!!! already sent 
+2025-05-30 14:12:35,322 - INFO - Skipping vincent.cardoso@uber.com!!!! already sent 
+2025-05-30 14:12:35,322 - INFO - Skipping armandojr@uber.com !!!! already sent 
+2025-05-30 14:12:35,322 - INFO - Skipping matt.body@uber.com,mattb@uber.com!!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping stricklink@uber.com!!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping justin.l.black@peraton.com !!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping mariadelcarmen.santiago@popular.com !!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping terivelisse.cotto@popular.com !!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping jcrespo@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:12:35,323 - INFO - Skipping jchavez@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:12:35,324 - INFO - Skipping sylvia.ashley@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:12:35,324 - INFO - Skipping katherine.furcht@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:12:35,324 - INFO - Skipping alexa.mercurio@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:12:35,324 - INFO - Skipping anna.goranson@terraytx.com!!!! already sent 
+2025-05-30 14:12:35,324 - INFO - Skipping marissa.ray@consultusa.com!!!! already sent 
+2025-05-30 14:12:35,325 - INFO - Skipping scarpenter@uwcu.org !!!! already sent 
+2025-05-30 14:12:35,325 - INFO - Skipping ayanna.wade@sensortower.com!!!! already sent 
+2025-05-30 14:12:35,325 - INFO - Skipping jennifer.heffernan@sensortower.com !!!! already sent 
+2025-05-30 14:12:35,325 - INFO - Skipping alexandr.plashchinsky@senortower.com!!!! already sent 
+2025-05-30 14:12:35,325 - INFO - Skipping dustin.long@sensortower.com!!!! already sent 
+2025-05-30 14:12:35,326 - INFO - Skipping charlene@harvey.ai!!!! already sent 
+2025-05-30 14:12:35,326 - INFO - Skipping ally@harvey.ai!!!! already sent 
+2025-05-30 14:12:35,326 - INFO - Skipping brian@harvey.ai!!!! already sent 
+2025-05-30 14:12:35,326 - INFO - Skipping amber.nelson@bobcat.com!!!! already sent 
+2025-05-30 14:12:35,327 - INFO - Skipping amber.nelson@doosan.com!!!! already sent 
+2025-05-30 14:12:35,327 - INFO - Skipping alexander.bremer@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,327 - INFO - Skipping tiffany.wooner@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,327 - INFO - Skipping kelly.vannier@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,328 - INFO - Skipping ernest.torres@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,328 - INFO - Skipping reilly.hughes@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,328 - INFO - Skipping deb.smith@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,328 - INFO - Skipping victoria.jackson@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,328 - INFO - Skipping KaThomps@Amergis.com!!!! already sent 
+2025-05-30 14:12:35,329 - INFO - Skipping lauren.moeller@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,329 - INFO - Skipping jamie.sampson@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,329 - INFO - Skipping katie.kremmin@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,329 - INFO - Skipping lainie.marte@bestbuy.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping juli.s.warren@walgreens.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping misha.lang1@walgreens.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping nicole.lavallie@walgreens.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping amanda.jarnow@walgreens.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping irwin.denyse@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,330 - INFO - Skipping graham.adriana@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,331 - INFO - Skipping jain.sonal@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,331 - INFO - Skipping garcia.vanessa@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,332 - INFO - Skipping runals.teresa@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,332 - INFO - Skipping mehta.srushti@aaa-calif.com!!!! already sent 
+2025-05-30 14:12:35,333 - INFO - Skipping claudia.zepeda@realtor.com!!!! already sent 
+2025-05-30 14:12:35,333 - INFO - Skipping victor.vergara@realtor.com!!!! already sent 
+2025-05-30 14:12:35,334 - INFO - Skipping mckenna.painton@realtor.com!!!! already sent 
+2025-05-30 14:12:35,335 - INFO - Skipping kelsey.vanderburg@realtor.com!!!! already sent 
+2025-05-30 14:12:35,335 - INFO - Skipping bharathr@spotify.com!!!! already sent 
+2025-05-30 14:12:35,336 - INFO - Skipping chetanp@spotify.com!!!! already sent 
+2025-05-30 14:12:35,336 - INFO - Skipping gabriell@spotify.com!!!! already sent 
+2025-05-30 14:12:35,337 - INFO - Skipping douglasc@spotify.com!!!! already sent 
+2025-05-30 14:12:35,337 - INFO - Skipping laureng@spotify.com!!!! already sent 
+2025-05-30 14:12:35,337 - INFO - Skipping nicoler@spotify.com!!!! already sent 
+2025-05-30 14:12:35,338 - INFO - Skipping christopher.taber@cvshealth.com!!!! already sent 
+2025-05-30 14:12:35,338 - INFO - Skipping acurtis@censys.com!!!! already sent 
+2025-05-30 14:12:35,338 - INFO - Skipping ldriss@censys.com!!!! already sent 
+2025-05-30 14:12:35,338 - INFO - Skipping advaith@censys.com!!!! already sent 
+2025-05-30 14:12:35,339 - INFO - Skipping andrewalexander@censys.com!!!! already sent 
+2025-05-30 14:12:35,339 - INFO - Skipping kelly.weller@addepar.com!!!! already sent 
+2025-05-30 14:12:35,339 - INFO - Skipping carlos.pineda@addepar.com!!!! already sent 
+2025-05-30 14:12:35,339 - INFO - Skipping douglas.clifford@addepar.com!!!! already sent 
+2025-05-30 14:12:35,339 - INFO - Skipping gabe.gallardo@bluerivert.com!!!! already sent 
+2025-05-30 14:12:35,342 - INFO - Skipping ashley.haybarker@bluerivertech.com!!!! already sent 
+2025-05-30 14:12:35,342 - INFO - Skipping pooja.mehta@bluerivertech.com!!!! already sent 
+2025-05-30 14:12:35,342 - INFO - Skipping olgert.denas@bluerivertech.com!!!! already sent 
+2025-05-30 14:12:35,343 - INFO - Skipping mcoffey@hatci.com!!!! already sent 
+2025-05-30 14:12:35,343 - INFO - Skipping tc@hatci.com!!!! already sent 
+2025-05-30 14:12:35,343 - INFO - Skipping jgross@hatci.com!!!! already sent 
+2025-05-30 14:12:35,343 - INFO - Skipping blemon@hatci.com!!!! already sent 
+2025-05-30 14:12:35,344 - INFO - Skipping ecorona@hatci.com!!!! already sent 
+2025-05-30 14:12:35,344 - INFO - Skipping kbaxter@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,344 - INFO - Skipping mforsythe@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,345 - INFO - Skipping babaker@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,345 - INFO - Skipping antran@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,345 - INFO - Skipping tallain@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,345 - INFO - Skipping rrichholt@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,346 - INFO - Skipping ajarman@exactsciences.com!!!! already sent 
+2025-05-30 14:12:35,346 - INFO - Skipping hanjohn@visa.com!!!! already sent 
+2025-05-30 14:12:35,346 - INFO - Skipping fpeccin@visa.com!!!! already sent 
+2025-05-30 14:12:35,346 - INFO - Skipping swramasu@visa.com!!!! already sent 
+2025-05-30 14:12:35,347 - INFO - Skipping taiyaba.ansari@synechron.com!!!! already sent 
+2025-05-30 14:12:35,347 - INFO - Skipping tfierro@visa.com!!!! already sent 
+2025-05-30 14:12:35,347 - INFO - Skipping ospann@visa.com!!!! already sent 
+2025-05-30 14:12:35,347 - INFO - Skipping aahansen@visa.com!!!! already sent 
+2025-05-30 14:12:35,348 - INFO - Skipping kweller@visa.com!!!! already sent 
+2025-05-30 14:12:35,348 - INFO - Skipping sobishop@visa.com!!!! already sent 
+2025-05-30 14:12:35,348 - INFO - Skipping lhurst@visa.com!!!! already sent 
+2025-05-30 14:12:35,348 - INFO - Skipping harshisi@visa.com!!!! already sent 
+2025-05-30 14:12:35,348 - INFO - Skipping sangeeta.iyer@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,349 - INFO - Skipping leticia.ferrer@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,349 - INFO - Skipping lbarney@belcan.com!!!! already sent 
+2025-05-30 14:12:35,349 - INFO - Skipping ramya.navalpakkam@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,350 - INFO - Skipping roopa.m@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,350 - INFO - Skipping brian.dillaway@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,350 - INFO - Skipping haike.nanninga@cognizant.com!!!! already sent 
+2025-05-30 14:12:35,350 - INFO - Skipping josh.pelham@moloco.com!!!! already sent 
+2025-05-30 14:12:35,351 - INFO - Skipping tammy.nguyen@moloco.com!!!! already sent 
+2025-05-30 14:12:35,351 - INFO - Skipping scott.barrett@moloco.com!!!! already sent 
+2025-05-30 14:12:35,351 - INFO - Skipping hannah.dumas@moloco.com!!!! already sent 
+2025-05-30 14:12:35,352 - INFO - Skipping jonathan.overberg@moloco.com!!!! already sent 
+2025-05-30 14:12:35,352 - INFO - Skipping katelyn.zeff@moloco.com!!!! already sent 
+2025-05-30 14:12:35,352 - INFO - Skipping shilpa.ponugoti@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,353 - INFO - Skipping josh.campos@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,353 - INFO - Skipping gregory.lee@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,354 - INFO - Skipping joshua.wagner@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,354 - INFO - Skipping kristen.torres@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,354 - INFO - Skipping joel.walton@drivetime.com!!!! already sent 
+2025-05-30 14:12:35,354 - INFO - Skipping krystin.mcdermott@adusa.com!!!! already sent 
+2025-05-30 14:12:35,354 - INFO - Skipping karin.chu@peapoddigitallabs.com!!!! already sent 
+2025-05-30 14:12:35,355 - INFO - Skipping abhishek.maheshwarappa@adusa.com!!!! already sent 
+2025-05-30 14:12:35,355 - INFO - Skipping ram.viravalli@retailbusinessservices.com!!!! already sent 
+2025-05-30 14:12:35,355 - INFO - Skipping tcarr@aquent.com!!!! already sent 
+2025-05-30 14:12:35,355 - INFO - Skipping katie.ritthaler@veritivcorp.com!!!! already sent 
+2025-05-30 14:12:35,355 - INFO - Skipping catherine.turner@veritivcorp.com!!!! already sent 
+2025-05-30 14:12:35,356 - INFO - Skipping kyle.hagenau@veritivcorp.com!!!! already sent 
+2025-05-30 14:12:35,356 - INFO - Skipping cohan.scott@veritivcorp.com!!!! already sent 
+2025-05-30 14:12:35,356 - INFO - Skipping shashikiran.chilukuri@veritivcorp.com!!!! already sent 
+2025-05-30 14:12:35,356 - INFO - Skipping rick.ternet@relx.com!!!! already sent 
+2025-05-30 14:12:35,357 - INFO - Skipping vijay.kumar@relx.com!!!! already sent 
+2025-05-30 14:12:35,358 - INFO - Skipping shubham.darodkar@relx.com!!!! already sent 
+2025-05-30 14:12:35,359 - INFO - Skipping emilee.roberts@relx.com!!!! already sent 
+2025-05-30 14:12:35,359 - INFO - Skipping kathleen.walsh@transunion.com!!!! already sent 
+2025-05-30 14:12:35,360 - INFO - Skipping liz.johnson@transunion.com!!!! already sent 
+2025-05-30 14:12:35,361 - INFO - Skipping cgottipati@transunion.com!!!! already sent 
+2025-05-30 14:12:35,361 - INFO - Skipping vshah@transunion.com!!!! already sent 
+2025-05-30 14:12:35,361 - INFO - Skipping olivier.everts@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,362 - INFO - Skipping matthew.pirecki@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,363 - INFO - Skipping trevis.litherland@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,364 - INFO - Skipping elizabeth.bolduc@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,365 - INFO - Skipping katie.wilkinson@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,366 - INFO - Skipping diane.valentine@lexisnexis.com!!!! already sent 
+2025-05-30 14:12:35,366 - INFO - Skipping hedwards@ap.org!!!! already sent 
+2025-05-30 14:12:35,367 - INFO - Skipping msankara@ap.org!!!! already sent 
+2025-05-30 14:12:35,367 - INFO - Skipping mkamin@ap.org!!!! already sent 
+2025-05-30 14:12:35,368 - INFO - Skipping jacob.guerrero@slalom.com!!!! already sent 
+2025-05-30 14:12:35,369 - INFO - Skipping thomas.langan@slalom.com!!!! already sent 
+2025-05-30 14:12:35,370 - INFO - Skipping aubry.coyle@slalom.com!!!! already sent 
+2025-05-30 14:12:35,371 - INFO - Skipping josh.perkinson@slalom.com!!!! already sent 
+2025-05-30 14:12:35,371 - INFO - Skipping kendra.cammack@maritz.com!!!! already sent 
+2025-05-30 14:12:35,372 - INFO - Skipping richard.medina@maritz.com!!!! already sent 
+2025-05-30 14:12:35,372 - INFO - Skipping anthony.melson@maritz.com!!!! already sent 
+2025-05-30 14:12:35,373 - INFO - Skipping archit.gupta@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,374 - INFO - Skipping loni.olazaba@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,375 - INFO - Skipping jennifer.daniher@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,375 - INFO - Skipping baharan.kamousi@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,375 - INFO - Skipping keli.corey@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,376 - INFO - Skipping lupe.leon@ceribell.com!!!! already sent 
+2025-05-30 14:12:35,376 - INFO - Skipping kleene@dnb.com!!!! already sent 
+2025-05-30 14:12:35,377 - INFO - Skipping powellw@dnb.com!!!! already sent 
+2025-05-30 14:12:35,377 - INFO - Skipping byrnesc@dnb.com!!!! already sent 
+2025-05-30 14:12:35,377 - INFO - Skipping kaline@dnb.com!!!! already sent 
+2025-05-30 14:12:35,378 - INFO - Skipping dudekp@dnb.com!!!! already sent 
+2025-05-30 14:12:35,378 - INFO - Skipping zimri.fils@wgu.edu!!!! already sent 
+2025-05-30 14:12:35,379 - INFO - Skipping fellowsm@dnb.com!!!! already sent 
+2025-05-30 14:12:35,379 - INFO - Skipping solomonmi@dnb.com!!!! already sent 
+2025-05-30 14:12:35,379 - INFO - Skipping neha.malpani@consumercellular.com!!!! already sent 
+2025-05-30 14:12:35,379 - INFO - Skipping nicole.garavaglia@consumercellular.com!!!! already sent 
+2025-05-30 14:12:35,380 - INFO - Skipping alex.woodhouse@consumercellular.com!!!! already sent 
+2025-05-30 14:12:35,380 - INFO - Skipping tejaswi.vanamala@lonza.com!!!! already sent 
+2025-05-30 14:12:35,381 - INFO - Skipping rebekah.ewing@lonza.com!!!! already sent 
+2025-05-30 14:12:35,381 - INFO - Skipping dhanesh.balasetti@lonza.com!!!! already sent 
+2025-05-30 14:12:35,381 - INFO - Skipping cailee_valente@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,382 - INFO - Skipping tracy_lafontant@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,382 - INFO - Skipping seldric_blocker@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,382 - INFO - Skipping marina_printz@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,382 - INFO - Skipping rita_fuller@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,382 - INFO - Skipping anurag_jain@newyorklife.com!!!! already sent 
+2025-05-30 14:12:35,383 - INFO - Skipping malav.dave@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,383 - INFO - Skipping mediha.odzakovic@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,383 - INFO - Skipping carol.gregory@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,383 - INFO - Skipping sunil.chandran@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,383 - INFO - Skipping amy.tran@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,384 - INFO - Skipping rvenkatakrishnan@reveleer.com!!!! already sent 
+2025-05-30 14:12:35,384 - INFO - Generating email addresses...
+2025-05-30 14:12:35,384 - INFO - Using provided email address.
+2025-05-30 14:12:35,384 - INFO - Sending email to: cesar.jaidar@tyson.com
+2025-05-30 14:12:35,385 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:37,133 - INFO - Using message_id: nan for cesar.jaidar@tyson.com
+2025-05-30 14:12:39,198 - INFO - Email sent successfully to cesar.jaidar@tyson.com
+2025-05-30 14:12:39,199 - INFO - Email sent successfully to cesar.jaidar@tyson.com
+2025-05-30 14:12:39,200 - INFO - Generating email addresses...
+2025-05-30 14:12:39,201 - INFO - Using provided email address.
+2025-05-30 14:12:39,201 - INFO - Sending email to: anjali.bhatt@tyson.com
+2025-05-30 14:12:39,201 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:40,616 - INFO - Using message_id: nan for anjali.bhatt@tyson.com
+2025-05-30 14:12:42,505 - INFO - Email sent successfully to anjali.bhatt@tyson.com
+2025-05-30 14:12:42,506 - INFO - Email sent successfully to anjali.bhatt@tyson.com
+2025-05-30 14:12:42,506 - INFO - Generating email addresses...
+2025-05-30 14:12:42,507 - INFO - Using provided email address.
+2025-05-30 14:12:42,507 - INFO - Sending email to: peter.an@tyson.com
+2025-05-30 14:12:42,507 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:43,873 - INFO - Using message_id: nan for peter.an@tyson.com
+2025-05-30 14:12:45,815 - INFO - Email sent successfully to peter.an@tyson.com
+2025-05-30 14:12:45,816 - INFO - Email sent successfully to peter.an@tyson.com
+2025-05-30 14:12:45,817 - INFO - Generating email addresses...
+2025-05-30 14:12:45,817 - INFO - Using provided email address.
+2025-05-30 14:12:45,817 - INFO - Sending email to: katrina.wade@tyson.com
+2025-05-30 14:12:45,817 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:47,165 - INFO - Using message_id: nan for katrina.wade@tyson.com
+2025-05-30 14:12:49,060 - INFO - Email sent successfully to katrina.wade@tyson.com
+2025-05-30 14:12:49,061 - INFO - Email sent successfully to katrina.wade@tyson.com
+2025-05-30 14:12:49,062 - INFO - Generating email addresses...
+2025-05-30 14:12:49,062 - INFO - Using provided email address.
+2025-05-30 14:12:49,062 - INFO - Sending email to: felicia.adamson@tyson.com
+2025-05-30 14:12:49,063 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:50,414 - INFO - Using message_id: nan for felicia.adamson@tyson.com
+2025-05-30 14:12:52,229 - INFO - Email sent successfully to felicia.adamson@tyson.com
+2025-05-30 14:12:52,229 - INFO - Email sent successfully to felicia.adamson@tyson.com
+2025-05-30 14:12:52,230 - INFO - Generating email addresses...
+2025-05-30 14:12:52,230 - INFO - Using provided email address.
+2025-05-30 14:12:52,230 - INFO - Sending email to: lauren.frala@tyson.com
+2025-05-30 14:12:52,230 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:53,596 - INFO - Using message_id: nan for lauren.frala@tyson.com
+2025-05-30 14:12:55,498 - INFO - Email sent successfully to lauren.frala@tyson.com
+2025-05-30 14:12:55,498 - INFO - Email sent successfully to lauren.frala@tyson.com
+2025-05-30 14:12:55,500 - INFO - Generating email addresses...
+2025-05-30 14:12:55,500 - INFO - Using provided email address.
+2025-05-30 14:12:55,500 - INFO - Sending email to: michelle.b@tyson.com
+2025-05-30 14:12:55,500 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:12:56,857 - INFO - Using message_id: nan for michelle.b@tyson.com
+2025-05-30 14:12:58,861 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:12:58,862 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:12:58,863 - INFO - Generating email addresses...
+2025-05-30 14:12:58,864 - INFO - Using provided email address.
+2025-05-30 14:12:58,864 - INFO - Sending email to: william_l@vfc.com
+2025-05-30 14:12:58,864 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:13:00,211 - INFO - Using message_id: nan for william_l@vfc.com
+2025-05-30 14:13:02,056 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:13:02,057 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:13:02,057 - INFO - Generating email addresses...
+2025-05-30 14:13:02,058 - INFO - Using provided email address.
+2025-05-30 14:13:02,058 - INFO - Sending email to: julianna_raffa@vfc.com
+2025-05-30 14:13:02,058 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:13:03,389 - INFO - Using message_id: nan for julianna_raffa@vfc.com
+2025-05-30 14:13:05,246 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:13:05,247 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:13:05,248 - INFO - Generating email addresses...
+2025-05-30 14:13:05,248 - INFO - Using provided email address.
+2025-05-30 14:13:05,248 - INFO - Sending email to: daniel.fisher@myparadigm.com
+2025-05-30 14:13:05,248 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:13:06,593 - INFO - Using message_id: nan for daniel.fisher@myparadigm.com
+2025-05-30 14:34:24,011 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:34:24,016 - INFO - Read email template.
+2025-05-30 14:34:24,016 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:34:24,050 - INFO - Generating email addresses...
+2025-05-30 14:34:24,051 - INFO - Using provided email address.
+2025-05-30 14:34:24,051 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:34:25,504 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:34:25,507 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 159, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 24, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:35:19,389 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:35:19,389 - INFO - Read email template.
+2025-05-30 14:35:19,389 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:35:19,407 - INFO - Generating email addresses...
+2025-05-30 14:35:19,407 - INFO - Using provided email address.
+2025-05-30 14:35:19,408 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:35:20,771 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:35:20,771 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 161, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:36:25,634 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:36:25,635 - INFO - Read email template.
+2025-05-30 14:36:25,635 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:36:25,664 - INFO - Generating email addresses...
+2025-05-30 14:36:25,664 - INFO - Using provided email address.
+2025-05-30 14:36:25,664 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:36:27,029 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:36:27,031 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 161, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:37:59,705 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:37:59,705 - INFO - Read email template.
+2025-05-30 14:37:59,705 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:37:59,722 - INFO - Generating email addresses...
+2025-05-30 14:37:59,722 - INFO - Using provided email address.
+2025-05-30 14:37:59,722 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:38:01,076 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:38:01,078 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 161, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:38:33,883 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:38:33,884 - INFO - Read email template.
+2025-05-30 14:38:33,884 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:38:33,902 - INFO - Generating email addresses...
+2025-05-30 14:38:33,902 - INFO - Using provided email address.
+2025-05-30 14:38:33,902 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:38:35,286 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:38:35,287 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 162, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:39:42,952 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:39:42,953 - INFO - Read email template.
+2025-05-30 14:39:42,953 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:39:42,973 - INFO - Generating email addresses...
+2025-05-30 14:39:42,973 - INFO - Using provided email address.
+2025-05-30 14:39:42,973 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:39:44,404 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:39:44,405 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 161, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:40:00,610 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:40:00,611 - INFO - Read email template.
+2025-05-30 14:40:00,611 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:40:00,631 - INFO - Generating email addresses...
+2025-05-30 14:40:00,632 - INFO - Using provided email address.
+2025-05-30 14:40:00,632 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:40:02,016 - INFO - Using message_id: None for akaniyar@asu.edu
+2025-05-30 14:40:02,017 - ERROR - Error sending email:
+Traceback (most recent call last):
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 161, in send_email
+    resume_path,resume_filename = select_resume(position)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aniru\Desktop\Job\ColdThread\email_utils\email_sender.py", line 26, in select_resume
+    position = position.lower()
+               ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-05-30 14:41:04,577 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:41:04,577 - INFO - Read email template.
+2025-05-30 14:41:04,578 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:41:04,606 - INFO - Generating email addresses...
+2025-05-30 14:41:04,607 - INFO - Using provided email address.
+2025-05-30 14:41:44,754 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:41:44,754 - INFO - Read email template.
+2025-05-30 14:41:44,755 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:41:44,773 - INFO - Generating email addresses...
+2025-05-30 14:41:44,773 - INFO - Using provided email address.
+2025-05-30 14:41:44,773 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:41:44,773 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:41:46,161 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-05-30 14:41:48,255 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:48,256 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:48,257 - INFO - Generating email addresses...
+2025-05-30 14:41:48,259 - INFO - Using provided email address.
+2025-05-30 14:41:48,259 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:41:48,259 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:41:49,612 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-05-30 14:41:51,709 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:51,709 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:51,710 - INFO - Generating email addresses...
+2025-05-30 14:41:51,711 - INFO - Using provided email address.
+2025-05-30 14:41:51,711 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:41:51,711 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:41:53,073 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-05-30 14:41:55,085 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:55,085 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:55,086 - INFO - Generating email addresses...
+2025-05-30 14:41:55,086 - INFO - Using provided email address.
+2025-05-30 14:41:55,086 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:41:55,087 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:41:56,429 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-05-30 14:41:58,539 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:58,541 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:41:58,542 - INFO - Generating email addresses...
+2025-05-30 14:41:58,543 - INFO - Using provided email address.
+2025-05-30 14:41:58,543 - INFO - Sending email to: akaniyar@asu.edu
+2025-05-30 14:41:58,543 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:41:59,915 - INFO - Using message_id: nan for akaniyar@asu.edu
+2025-05-30 14:42:01,917 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:42:01,917 - INFO - Email sent successfully to akaniyar@asu.edu
+2025-05-30 14:42:01,928 - INFO - Data successfully saved to recruiters.csv
+2025-05-30 14:43:52,943 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:43:52,944 - INFO - Read email template.
+2025-05-30 14:43:52,945 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:43:53,005 - INFO - Skipping theresa.stewart@pge.com!!!! already sent 
+2025-05-30 14:43:53,006 - INFO - Skipping kelly.macaluso@pge.com!!!! already sent 
+2025-05-30 14:43:53,006 - INFO - Skipping hector.vergara@pge.com!!!! already sent 
+2025-05-30 14:43:53,006 - INFO - Skipping brian.azevedo@pge.com!!!! already sent 
+2025-05-30 14:43:53,007 - INFO - Skipping J6R0@pge.com!!!! already sent 
+2025-05-30 14:43:53,007 - INFO - Skipping greg.clouse@biospace.com!!!! already sent 
+2025-05-30 14:43:53,007 - INFO - Skipping kalpana.sajeev@uber.com !!!! already sent 
+2025-05-30 14:43:53,008 - INFO - Skipping anna.walker@uber.com !!!! already sent 
+2025-05-30 14:43:53,008 - INFO - Skipping vincent.cardoso@uber.com!!!! already sent 
+2025-05-30 14:43:53,008 - INFO - Skipping armandojr@uber.com !!!! already sent 
+2025-05-30 14:43:53,008 - INFO - Skipping matt.body@uber.com,mattb@uber.com!!!! already sent 
+2025-05-30 14:43:53,009 - INFO - Skipping stricklink@uber.com!!!! already sent 
+2025-05-30 14:43:53,009 - INFO - Skipping justin.l.black@peraton.com !!!! already sent 
+2025-05-30 14:43:53,009 - INFO - Skipping mariadelcarmen.santiago@popular.com !!!! already sent 
+2025-05-30 14:43:53,009 - INFO - Skipping terivelisse.cotto@popular.com !!!! already sent 
+2025-05-30 14:43:53,009 - INFO - Skipping jcrespo@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:43:53,010 - INFO - Skipping jchavez@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:43:53,010 - INFO - Skipping sylvia.ashley@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:43:53,010 - INFO - Skipping katherine.furcht@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:43:53,010 - INFO - Skipping alexa.mercurio@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:43:53,011 - INFO - Skipping anna.goranson@terraytx.com!!!! already sent 
+2025-05-30 14:43:53,011 - INFO - Skipping marissa.ray@consultusa.com!!!! already sent 
+2025-05-30 14:43:53,011 - INFO - Skipping scarpenter@uwcu.org !!!! already sent 
+2025-05-30 14:43:53,011 - INFO - Skipping ayanna.wade@sensortower.com!!!! already sent 
+2025-05-30 14:43:53,012 - INFO - Skipping jennifer.heffernan@sensortower.com !!!! already sent 
+2025-05-30 14:43:53,012 - INFO - Skipping alexandr.plashchinsky@senortower.com!!!! already sent 
+2025-05-30 14:43:53,012 - INFO - Skipping dustin.long@sensortower.com!!!! already sent 
+2025-05-30 14:43:53,012 - INFO - Skipping charlene@harvey.ai!!!! already sent 
+2025-05-30 14:43:53,013 - INFO - Skipping ally@harvey.ai!!!! already sent 
+2025-05-30 14:43:53,013 - INFO - Skipping brian@harvey.ai!!!! already sent 
+2025-05-30 14:43:53,013 - INFO - Skipping amber.nelson@bobcat.com!!!! already sent 
+2025-05-30 14:43:53,014 - INFO - Skipping amber.nelson@doosan.com!!!! already sent 
+2025-05-30 14:43:53,014 - INFO - Skipping alexander.bremer@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping tiffany.wooner@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping kelly.vannier@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping ernest.torres@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping reilly.hughes@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping deb.smith@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,015 - INFO - Skipping victoria.jackson@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,016 - INFO - Skipping KaThomps@Amergis.com!!!! already sent 
+2025-05-30 14:43:53,016 - INFO - Skipping lauren.moeller@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,016 - INFO - Skipping jamie.sampson@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,016 - INFO - Skipping katie.kremmin@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,017 - INFO - Skipping lainie.marte@bestbuy.com!!!! already sent 
+2025-05-30 14:43:53,017 - INFO - Skipping juli.s.warren@walgreens.com!!!! already sent 
+2025-05-30 14:43:53,017 - INFO - Skipping misha.lang1@walgreens.com!!!! already sent 
+2025-05-30 14:43:53,017 - INFO - Skipping nicole.lavallie@walgreens.com!!!! already sent 
+2025-05-30 14:43:53,017 - INFO - Skipping amanda.jarnow@walgreens.com!!!! already sent 
+2025-05-30 14:43:53,018 - INFO - Skipping irwin.denyse@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,018 - INFO - Skipping graham.adriana@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,018 - INFO - Skipping jain.sonal@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,019 - INFO - Skipping garcia.vanessa@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,019 - INFO - Skipping runals.teresa@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,019 - INFO - Skipping mehta.srushti@aaa-calif.com!!!! already sent 
+2025-05-30 14:43:53,020 - INFO - Skipping claudia.zepeda@realtor.com!!!! already sent 
+2025-05-30 14:43:53,020 - INFO - Skipping victor.vergara@realtor.com!!!! already sent 
+2025-05-30 14:43:53,020 - INFO - Skipping mckenna.painton@realtor.com!!!! already sent 
+2025-05-30 14:43:53,021 - INFO - Skipping kelsey.vanderburg@realtor.com!!!! already sent 
+2025-05-30 14:43:53,021 - INFO - Skipping bharathr@spotify.com!!!! already sent 
+2025-05-30 14:43:53,021 - INFO - Skipping chetanp@spotify.com!!!! already sent 
+2025-05-30 14:43:53,022 - INFO - Skipping gabriell@spotify.com!!!! already sent 
+2025-05-30 14:43:53,022 - INFO - Skipping douglasc@spotify.com!!!! already sent 
+2025-05-30 14:43:53,022 - INFO - Skipping laureng@spotify.com!!!! already sent 
+2025-05-30 14:43:53,023 - INFO - Skipping nicoler@spotify.com!!!! already sent 
+2025-05-30 14:43:53,023 - INFO - Skipping christopher.taber@cvshealth.com!!!! already sent 
+2025-05-30 14:43:53,023 - INFO - Skipping acurtis@censys.com!!!! already sent 
+2025-05-30 14:43:53,023 - INFO - Skipping ldriss@censys.com!!!! already sent 
+2025-05-30 14:43:53,024 - INFO - Skipping advaith@censys.com!!!! already sent 
+2025-05-30 14:43:53,024 - INFO - Skipping andrewalexander@censys.com!!!! already sent 
+2025-05-30 14:43:53,024 - INFO - Skipping kelly.weller@addepar.com!!!! already sent 
+2025-05-30 14:43:53,024 - INFO - Skipping carlos.pineda@addepar.com!!!! already sent 
+2025-05-30 14:43:53,025 - INFO - Skipping douglas.clifford@addepar.com!!!! already sent 
+2025-05-30 14:43:53,025 - INFO - Skipping gabe.gallardo@bluerivert.com!!!! already sent 
+2025-05-30 14:43:53,025 - INFO - Skipping ashley.haybarker@bluerivertech.com!!!! already sent 
+2025-05-30 14:43:53,025 - INFO - Skipping pooja.mehta@bluerivertech.com!!!! already sent 
+2025-05-30 14:43:53,026 - INFO - Skipping olgert.denas@bluerivertech.com!!!! already sent 
+2025-05-30 14:43:53,026 - INFO - Skipping mcoffey@hatci.com!!!! already sent 
+2025-05-30 14:43:53,026 - INFO - Skipping tc@hatci.com!!!! already sent 
+2025-05-30 14:43:53,026 - INFO - Skipping jgross@hatci.com!!!! already sent 
+2025-05-30 14:43:53,028 - INFO - Skipping blemon@hatci.com!!!! already sent 
+2025-05-30 14:43:53,028 - INFO - Skipping ecorona@hatci.com!!!! already sent 
+2025-05-30 14:43:53,029 - INFO - Skipping kbaxter@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,029 - INFO - Skipping mforsythe@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,029 - INFO - Skipping babaker@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,029 - INFO - Skipping antran@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,030 - INFO - Skipping tallain@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,030 - INFO - Skipping rrichholt@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,030 - INFO - Skipping ajarman@exactsciences.com!!!! already sent 
+2025-05-30 14:43:53,030 - INFO - Skipping hanjohn@visa.com!!!! already sent 
+2025-05-30 14:43:53,031 - INFO - Skipping fpeccin@visa.com!!!! already sent 
+2025-05-30 14:43:53,032 - INFO - Skipping swramasu@visa.com!!!! already sent 
+2025-05-30 14:43:53,032 - INFO - Skipping taiyaba.ansari@synechron.com!!!! already sent 
+2025-05-30 14:43:53,032 - INFO - Skipping tfierro@visa.com!!!! already sent 
+2025-05-30 14:43:53,033 - INFO - Skipping ospann@visa.com!!!! already sent 
+2025-05-30 14:43:53,033 - INFO - Skipping aahansen@visa.com!!!! already sent 
+2025-05-30 14:43:53,033 - INFO - Skipping kweller@visa.com!!!! already sent 
+2025-05-30 14:43:53,033 - INFO - Skipping sobishop@visa.com!!!! already sent 
+2025-05-30 14:43:53,034 - INFO - Skipping lhurst@visa.com!!!! already sent 
+2025-05-30 14:43:53,034 - INFO - Skipping harshisi@visa.com!!!! already sent 
+2025-05-30 14:43:53,034 - INFO - Skipping sangeeta.iyer@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,035 - INFO - Skipping leticia.ferrer@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,035 - INFO - Skipping lbarney@belcan.com!!!! already sent 
+2025-05-30 14:43:53,035 - INFO - Skipping ramya.navalpakkam@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,036 - INFO - Skipping roopa.m@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,036 - INFO - Skipping brian.dillaway@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,036 - INFO - Skipping haike.nanninga@cognizant.com!!!! already sent 
+2025-05-30 14:43:53,036 - INFO - Skipping josh.pelham@moloco.com!!!! already sent 
+2025-05-30 14:43:53,037 - INFO - Skipping tammy.nguyen@moloco.com!!!! already sent 
+2025-05-30 14:43:53,037 - INFO - Skipping scott.barrett@moloco.com!!!! already sent 
+2025-05-30 14:43:53,038 - INFO - Skipping hannah.dumas@moloco.com!!!! already sent 
+2025-05-30 14:43:53,038 - INFO - Skipping jonathan.overberg@moloco.com!!!! already sent 
+2025-05-30 14:43:53,038 - INFO - Skipping katelyn.zeff@moloco.com!!!! already sent 
+2025-05-30 14:43:53,039 - INFO - Skipping shilpa.ponugoti@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,039 - INFO - Skipping josh.campos@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,039 - INFO - Skipping gregory.lee@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,039 - INFO - Skipping joshua.wagner@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,040 - INFO - Skipping kristen.torres@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,040 - INFO - Skipping joel.walton@drivetime.com!!!! already sent 
+2025-05-30 14:43:53,040 - INFO - Skipping krystin.mcdermott@adusa.com!!!! already sent 
+2025-05-30 14:43:53,040 - INFO - Skipping karin.chu@peapoddigitallabs.com!!!! already sent 
+2025-05-30 14:43:53,041 - INFO - Skipping abhishek.maheshwarappa@adusa.com!!!! already sent 
+2025-05-30 14:43:53,041 - INFO - Skipping ram.viravalli@retailbusinessservices.com!!!! already sent 
+2025-05-30 14:43:53,041 - INFO - Skipping tcarr@aquent.com!!!! already sent 
+2025-05-30 14:43:53,041 - INFO - Skipping katie.ritthaler@veritivcorp.com!!!! already sent 
+2025-05-30 14:43:53,041 - INFO - Skipping catherine.turner@veritivcorp.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping kyle.hagenau@veritivcorp.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping cohan.scott@veritivcorp.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping shashikiran.chilukuri@veritivcorp.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping rick.ternet@relx.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping vijay.kumar@relx.com!!!! already sent 
+2025-05-30 14:43:53,042 - INFO - Skipping shubham.darodkar@relx.com!!!! already sent 
+2025-05-30 14:43:53,043 - INFO - Skipping emilee.roberts@relx.com!!!! already sent 
+2025-05-30 14:43:53,043 - INFO - Skipping kathleen.walsh@transunion.com!!!! already sent 
+2025-05-30 14:43:53,043 - INFO - Skipping liz.johnson@transunion.com!!!! already sent 
+2025-05-30 14:43:53,043 - INFO - Skipping cgottipati@transunion.com!!!! already sent 
+2025-05-30 14:43:53,044 - INFO - Skipping vshah@transunion.com!!!! already sent 
+2025-05-30 14:43:53,044 - INFO - Skipping olivier.everts@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,044 - INFO - Skipping matthew.pirecki@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,044 - INFO - Skipping trevis.litherland@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,045 - INFO - Skipping elizabeth.bolduc@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,045 - INFO - Skipping katie.wilkinson@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,045 - INFO - Skipping diane.valentine@lexisnexis.com!!!! already sent 
+2025-05-30 14:43:53,046 - INFO - Skipping hedwards@ap.org!!!! already sent 
+2025-05-30 14:43:53,046 - INFO - Skipping msankara@ap.org!!!! already sent 
+2025-05-30 14:43:53,046 - INFO - Skipping mkamin@ap.org!!!! already sent 
+2025-05-30 14:43:53,046 - INFO - Skipping jacob.guerrero@slalom.com!!!! already sent 
+2025-05-30 14:43:53,047 - INFO - Skipping thomas.langan@slalom.com!!!! already sent 
+2025-05-30 14:43:53,047 - INFO - Skipping aubry.coyle@slalom.com!!!! already sent 
+2025-05-30 14:43:53,047 - INFO - Skipping josh.perkinson@slalom.com!!!! already sent 
+2025-05-30 14:43:53,048 - INFO - Skipping kendra.cammack@maritz.com!!!! already sent 
+2025-05-30 14:43:53,048 - INFO - Skipping richard.medina@maritz.com!!!! already sent 
+2025-05-30 14:43:53,048 - INFO - Skipping anthony.melson@maritz.com!!!! already sent 
+2025-05-30 14:43:53,048 - INFO - Skipping archit.gupta@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,049 - INFO - Skipping loni.olazaba@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,049 - INFO - Skipping jennifer.daniher@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,049 - INFO - Skipping baharan.kamousi@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,049 - INFO - Skipping keli.corey@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,049 - INFO - Skipping lupe.leon@ceribell.com!!!! already sent 
+2025-05-30 14:43:53,050 - INFO - Skipping kleene@dnb.com!!!! already sent 
+2025-05-30 14:43:53,050 - INFO - Skipping powellw@dnb.com!!!! already sent 
+2025-05-30 14:43:53,050 - INFO - Skipping byrnesc@dnb.com!!!! already sent 
+2025-05-30 14:43:53,051 - INFO - Skipping kaline@dnb.com!!!! already sent 
+2025-05-30 14:43:53,051 - INFO - Skipping dudekp@dnb.com!!!! already sent 
+2025-05-30 14:43:53,051 - INFO - Skipping zimri.fils@wgu.edu!!!! already sent 
+2025-05-30 14:43:53,051 - INFO - Skipping fellowsm@dnb.com!!!! already sent 
+2025-05-30 14:43:53,052 - INFO - Skipping solomonmi@dnb.com!!!! already sent 
+2025-05-30 14:43:53,052 - INFO - Skipping neha.malpani@consumercellular.com!!!! already sent 
+2025-05-30 14:43:53,052 - INFO - Skipping nicole.garavaglia@consumercellular.com!!!! already sent 
+2025-05-30 14:43:53,053 - INFO - Skipping alex.woodhouse@consumercellular.com!!!! already sent 
+2025-05-30 14:43:53,053 - INFO - Skipping tejaswi.vanamala@lonza.com!!!! already sent 
+2025-05-30 14:43:53,053 - INFO - Skipping rebekah.ewing@lonza.com!!!! already sent 
+2025-05-30 14:43:53,054 - INFO - Skipping dhanesh.balasetti@lonza.com!!!! already sent 
+2025-05-30 14:43:53,054 - INFO - Skipping cailee_valente@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,054 - INFO - Skipping tracy_lafontant@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,055 - INFO - Skipping seldric_blocker@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,055 - INFO - Skipping marina_printz@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,055 - INFO - Skipping rita_fuller@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,056 - INFO - Skipping anurag_jain@newyorklife.com!!!! already sent 
+2025-05-30 14:43:53,056 - INFO - Skipping malav.dave@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,056 - INFO - Skipping mediha.odzakovic@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,056 - INFO - Skipping carol.gregory@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,057 - INFO - Skipping sunil.chandran@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,057 - INFO - Skipping amy.tran@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,057 - INFO - Skipping rvenkatakrishnan@reveleer.com!!!! already sent 
+2025-05-30 14:43:53,057 - INFO - Generating email addresses...
+2025-05-30 14:43:53,058 - INFO - Using provided email address.
+2025-05-30 14:43:53,058 - INFO - Sending email to: cesar.jaidar@tyson.com
+2025-05-30 14:43:53,058 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:43:54,469 - INFO - Using message_id: nan for cesar.jaidar@tyson.com
+2025-05-30 14:43:56,369 - INFO - Email sent successfully to cesar.jaidar@tyson.com
+2025-05-30 14:43:56,370 - INFO - Email sent successfully to cesar.jaidar@tyson.com
+2025-05-30 14:43:56,371 - INFO - Generating email addresses...
+2025-05-30 14:43:56,372 - INFO - Using provided email address.
+2025-05-30 14:43:56,372 - INFO - Sending email to: anjali.bhatt@tyson.com
+2025-05-30 14:43:56,372 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:43:57,718 - INFO - Using message_id: nan for anjali.bhatt@tyson.com
+2025-05-30 14:43:59,603 - INFO - Email sent successfully to anjali.bhatt@tyson.com
+2025-05-30 14:43:59,604 - INFO - Email sent successfully to anjali.bhatt@tyson.com
+2025-05-30 14:43:59,605 - INFO - Generating email addresses...
+2025-05-30 14:43:59,605 - INFO - Using provided email address.
+2025-05-30 14:43:59,605 - INFO - Sending email to: peter.an@tyson.com
+2025-05-30 14:43:59,605 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:00,958 - INFO - Using message_id: nan for peter.an@tyson.com
+2025-05-30 14:44:02,929 - INFO - Email sent successfully to peter.an@tyson.com
+2025-05-30 14:44:02,930 - INFO - Email sent successfully to peter.an@tyson.com
+2025-05-30 14:44:02,930 - INFO - Generating email addresses...
+2025-05-30 14:44:02,931 - INFO - Using provided email address.
+2025-05-30 14:44:02,931 - INFO - Sending email to: katrina.wade@tyson.com
+2025-05-30 14:44:02,931 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:04,270 - INFO - Using message_id: nan for katrina.wade@tyson.com
+2025-05-30 14:44:06,149 - INFO - Email sent successfully to katrina.wade@tyson.com
+2025-05-30 14:44:06,150 - INFO - Email sent successfully to katrina.wade@tyson.com
+2025-05-30 14:44:06,151 - INFO - Generating email addresses...
+2025-05-30 14:44:06,151 - INFO - Using provided email address.
+2025-05-30 14:44:06,151 - INFO - Sending email to: felicia.adamson@tyson.com
+2025-05-30 14:44:06,151 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:07,501 - INFO - Using message_id: nan for felicia.adamson@tyson.com
+2025-05-30 14:44:09,410 - INFO - Email sent successfully to felicia.adamson@tyson.com
+2025-05-30 14:44:09,411 - INFO - Email sent successfully to felicia.adamson@tyson.com
+2025-05-30 14:44:09,413 - INFO - Generating email addresses...
+2025-05-30 14:44:09,415 - INFO - Using provided email address.
+2025-05-30 14:44:09,415 - INFO - Sending email to: lauren.frala@tyson.com
+2025-05-30 14:44:09,415 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:10,753 - INFO - Using message_id: nan for lauren.frala@tyson.com
+2025-05-30 14:44:12,644 - INFO - Email sent successfully to lauren.frala@tyson.com
+2025-05-30 14:44:12,645 - INFO - Email sent successfully to lauren.frala@tyson.com
+2025-05-30 14:44:12,646 - INFO - Generating email addresses...
+2025-05-30 14:44:12,646 - INFO - Using provided email address.
+2025-05-30 14:44:12,647 - INFO - Sending email to: michelle.b@tyson.com
+2025-05-30 14:44:12,647 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:13,994 - INFO - Using message_id: nan for michelle.b@tyson.com
+2025-05-30 14:44:15,892 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:44:15,893 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:44:15,894 - INFO - Generating email addresses...
+2025-05-30 14:44:15,894 - INFO - Using provided email address.
+2025-05-30 14:44:15,894 - INFO - Sending email to: william_l@vfc.com
+2025-05-30 14:44:15,894 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:17,262 - INFO - Using message_id: nan for william_l@vfc.com
+2025-05-30 14:44:19,161 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:44:19,162 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:44:19,163 - INFO - Generating email addresses...
+2025-05-30 14:44:19,164 - INFO - Using provided email address.
+2025-05-30 14:44:19,164 - INFO - Sending email to: julianna_raffa@vfc.com
+2025-05-30 14:44:19,164 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:20,523 - INFO - Using message_id: nan for julianna_raffa@vfc.com
+2025-05-30 14:44:22,417 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:44:22,418 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:44:22,419 - INFO - Generating email addresses...
+2025-05-30 14:44:22,420 - INFO - Using provided email address.
+2025-05-30 14:44:22,420 - INFO - Sending email to: daniel.fisher@myparadigm.com
+2025-05-30 14:44:22,420 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:23,765 - INFO - Using message_id: nan for daniel.fisher@myparadigm.com
+2025-05-30 14:44:25,714 - INFO - Email sent successfully to daniel.fisher@myparadigm.com
+2025-05-30 14:44:25,716 - INFO - Email sent successfully to daniel.fisher@myparadigm.com
+2025-05-30 14:44:25,717 - INFO - Generating email addresses...
+2025-05-30 14:44:25,718 - INFO - Using provided email address.
+2025-05-30 14:44:25,718 - INFO - Sending email to: ethan.clemence@myparadigm.com
+2025-05-30 14:44:25,718 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:27,065 - INFO - Using message_id: nan for ethan.clemence@myparadigm.com
+2025-05-30 14:44:28,969 - INFO - Email sent successfully to ethan.clemence@myparadigm.com
+2025-05-30 14:44:28,969 - INFO - Email sent successfully to ethan.clemence@myparadigm.com
+2025-05-30 14:44:28,971 - INFO - Generating email addresses...
+2025-05-30 14:44:28,971 - INFO - Using provided email address.
+2025-05-30 14:44:28,972 - INFO - Sending email to: kelly.weller@addepar.com
+2025-05-30 14:44:28,972 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:30,316 - INFO - Using message_id: nan for kelly.weller@addepar.com
+2025-05-30 14:44:32,219 - INFO - Email sent successfully to kelly.weller@addepar.com
+2025-05-30 14:44:32,221 - INFO - Email sent successfully to kelly.weller@addepar.com
+2025-05-30 14:44:32,222 - INFO - Generating email addresses...
+2025-05-30 14:44:32,223 - INFO - Using provided email address.
+2025-05-30 14:44:32,223 - INFO - Sending email to: carlos.pineda@addepar.com
+2025-05-30 14:44:32,223 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:33,585 - INFO - Using message_id: nan for carlos.pineda@addepar.com
+2025-05-30 14:44:35,484 - INFO - Email sent successfully to carlos.pineda@addepar.com
+2025-05-30 14:44:35,485 - INFO - Email sent successfully to carlos.pineda@addepar.com
+2025-05-30 14:44:35,486 - INFO - Generating email addresses...
+2025-05-30 14:44:35,486 - INFO - Using provided email address.
+2025-05-30 14:44:35,486 - INFO - Sending email to: douglas.clifford@addepar.com
+2025-05-30 14:44:35,486 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:36,823 - INFO - Using message_id: nan for douglas.clifford@addepar.com
+2025-05-30 14:44:38,719 - INFO - Email sent successfully to douglas.clifford@addepar.com
+2025-05-30 14:44:38,720 - INFO - Email sent successfully to douglas.clifford@addepar.com
+2025-05-30 14:44:38,721 - INFO - Generating email addresses...
+2025-05-30 14:44:38,722 - INFO - Using provided email address.
+2025-05-30 14:44:38,722 - INFO - Sending email to: christine.turkal@abm.com
+2025-05-30 14:44:38,722 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:40,071 - INFO - Using message_id: nan for christine.turkal@abm.com
+2025-05-30 14:44:41,911 - INFO - Email sent successfully to christine.turkal@abm.com
+2025-05-30 14:44:41,913 - INFO - Email sent successfully to christine.turkal@abm.com
+2025-05-30 14:44:41,916 - INFO - Generating email addresses...
+2025-05-30 14:44:41,917 - INFO - Using provided email address.
+2025-05-30 14:44:41,918 - INFO - Sending email to: jonathan.daniel@abm.com
+2025-05-30 14:44:41,918 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:43,255 - INFO - Using message_id: nan for jonathan.daniel@abm.com
+2025-05-30 14:44:45,134 - INFO - Email sent successfully to jonathan.daniel@abm.com
+2025-05-30 14:44:45,135 - INFO - Email sent successfully to jonathan.daniel@abm.com
+2025-05-30 14:44:45,138 - INFO - Generating email addresses...
+2025-05-30 14:44:45,139 - INFO - Using provided email address.
+2025-05-30 14:44:45,139 - INFO - Sending email to: aj.domingo@abm.com
+2025-05-30 14:44:45,139 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:46,556 - INFO - Using message_id: nan for aj.domingo@abm.com
+2025-05-30 14:44:48,449 - INFO - Email sent successfully to aj.domingo@abm.com
+2025-05-30 14:44:48,449 - INFO - Email sent successfully to aj.domingo@abm.com
+2025-05-30 14:44:48,450 - INFO - Generating email addresses...
+2025-05-30 14:44:48,451 - INFO - Using provided email address.
+2025-05-30 14:44:48,451 - INFO - Sending email to: catherine.slack@abm.com
+2025-05-30 14:44:48,452 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:49,814 - INFO - Using message_id: nan for catherine.slack@abm.com
+2025-05-30 14:44:51,701 - INFO - Email sent successfully to catherine.slack@abm.com
+2025-05-30 14:44:51,702 - INFO - Email sent successfully to catherine.slack@abm.com
+2025-05-30 14:44:51,703 - INFO - Generating email addresses...
+2025-05-30 14:44:51,703 - INFO - Using provided email address.
+2025-05-30 14:44:51,703 - INFO - Sending email to: reshmi.chakraborty@abm.com
+2025-05-30 14:44:51,704 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:53,153 - INFO - Using message_id: nan for reshmi.chakraborty@abm.com
+2025-05-30 14:44:55,106 - INFO - Email sent successfully to reshmi.chakraborty@abm.com
+2025-05-30 14:44:55,107 - INFO - Email sent successfully to reshmi.chakraborty@abm.com
+2025-05-30 14:44:55,108 - INFO - Generating email addresses...
+2025-05-30 14:44:55,109 - INFO - Using provided email address.
+2025-05-30 14:44:55,109 - INFO - Sending email to: tarak.reddy@abm.com
+2025-05-30 14:44:55,109 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:56,500 - INFO - Using message_id: nan for tarak.reddy@abm.com
+2025-05-30 14:44:58,381 - INFO - Email sent successfully to tarak.reddy@abm.com
+2025-05-30 14:44:58,382 - INFO - Email sent successfully to tarak.reddy@abm.com
+2025-05-30 14:44:58,383 - INFO - Generating email addresses...
+2025-05-30 14:44:58,384 - INFO - Using provided email address.
+2025-05-30 14:44:58,385 - INFO - Sending email to: mgaudin@republicservices.com
+2025-05-30 14:44:58,385 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:44:59,730 - INFO - Using message_id: nan for mgaudin@republicservices.com
+2025-05-30 14:45:01,653 - INFO - Email sent successfully to mgaudin@republicservices.com
+2025-05-30 14:45:01,655 - INFO - Email sent successfully to mgaudin@republicservices.com
+2025-05-30 14:45:01,657 - INFO - Generating email addresses...
+2025-05-30 14:45:01,659 - INFO - Using provided email address.
+2025-05-30 14:45:01,659 - INFO - Sending email to: mhenrich@republicservices.com
+2025-05-30 14:45:01,659 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:45:03,030 - INFO - Using message_id: nan for mhenrich@republicservices.com
+2025-05-30 14:45:04,960 - INFO - Email sent successfully to mhenrich@republicservices.com
+2025-05-30 14:45:04,961 - INFO - Email sent successfully to mhenrich@republicservices.com
+2025-05-30 14:45:04,974 - INFO - Data successfully saved to recruiters.csv
+2025-05-30 14:52:39,186 - INFO - Loaded environment variables from .env file.
+2025-05-30 14:52:39,198 - INFO - Read email template.
+2025-05-30 14:52:39,198 - INFO - Reading data from CSV file: 'recruiters.csv'
+2025-05-30 14:52:39,338 - INFO - Skipping theresa.stewart@pge.com!!!! already sent 
+2025-05-30 14:52:39,339 - INFO - Skipping kelly.macaluso@pge.com!!!! already sent 
+2025-05-30 14:52:39,339 - INFO - Skipping hector.vergara@pge.com!!!! already sent 
+2025-05-30 14:52:39,339 - INFO - Skipping brian.azevedo@pge.com!!!! already sent 
+2025-05-30 14:52:39,339 - INFO - Skipping J6R0@pge.com!!!! already sent 
+2025-05-30 14:52:39,340 - INFO - Skipping greg.clouse@biospace.com!!!! already sent 
+2025-05-30 14:52:39,340 - INFO - Skipping kalpana.sajeev@uber.com !!!! already sent 
+2025-05-30 14:52:39,340 - INFO - Skipping anna.walker@uber.com !!!! already sent 
+2025-05-30 14:52:39,340 - INFO - Skipping vincent.cardoso@uber.com!!!! already sent 
+2025-05-30 14:52:39,341 - INFO - Skipping armandojr@uber.com !!!! already sent 
+2025-05-30 14:52:39,341 - INFO - Skipping matt.body@uber.com,mattb@uber.com!!!! already sent 
+2025-05-30 14:52:39,341 - INFO - Skipping stricklink@uber.com!!!! already sent 
+2025-05-30 14:52:39,341 - INFO - Skipping justin.l.black@peraton.com !!!! already sent 
+2025-05-30 14:52:39,342 - INFO - Skipping mariadelcarmen.santiago@popular.com !!!! already sent 
+2025-05-30 14:52:39,342 - INFO - Skipping terivelisse.cotto@popular.com !!!! already sent 
+2025-05-30 14:52:39,342 - INFO - Skipping jcrespo@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:52:39,343 - INFO - Skipping jchavez@heartlandvetpartners.com !!!! already sent 
+2025-05-30 14:52:39,343 - INFO - Skipping sylvia.ashley@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:52:39,343 - INFO - Skipping katherine.furcht@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:52:39,343 - INFO - Skipping alexa.mercurio@weyerhaeuser.com !!!! already sent 
+2025-05-30 14:52:39,344 - INFO - Skipping anna.goranson@terraytx.com!!!! already sent 
+2025-05-30 14:52:39,344 - INFO - Skipping marissa.ray@consultusa.com!!!! already sent 
+2025-05-30 14:52:39,344 - INFO - Skipping scarpenter@uwcu.org !!!! already sent 
+2025-05-30 14:52:39,344 - INFO - Skipping ayanna.wade@sensortower.com!!!! already sent 
+2025-05-30 14:52:39,344 - INFO - Skipping jennifer.heffernan@sensortower.com !!!! already sent 
+2025-05-30 14:52:39,345 - INFO - Skipping alexandr.plashchinsky@senortower.com!!!! already sent 
+2025-05-30 14:52:39,345 - INFO - Skipping dustin.long@sensortower.com!!!! already sent 
+2025-05-30 14:52:39,345 - INFO - Skipping charlene@harvey.ai!!!! already sent 
+2025-05-30 14:52:39,345 - INFO - Skipping ally@harvey.ai!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping brian@harvey.ai!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping amber.nelson@bobcat.com!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping amber.nelson@doosan.com!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping alexander.bremer@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping tiffany.wooner@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping kelly.vannier@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,346 - INFO - Skipping ernest.torres@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,348 - INFO - Skipping reilly.hughes@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,348 - INFO - Skipping deb.smith@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,348 - INFO - Skipping victoria.jackson@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,349 - INFO - Skipping KaThomps@Amergis.com!!!! already sent 
+2025-05-30 14:52:39,349 - INFO - Skipping lauren.moeller@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,350 - INFO - Skipping jamie.sampson@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,350 - INFO - Skipping katie.kremmin@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,351 - INFO - Skipping lainie.marte@bestbuy.com!!!! already sent 
+2025-05-30 14:52:39,351 - INFO - Skipping juli.s.warren@walgreens.com!!!! already sent 
+2025-05-30 14:52:39,352 - INFO - Skipping misha.lang1@walgreens.com!!!! already sent 
+2025-05-30 14:52:39,352 - INFO - Skipping nicole.lavallie@walgreens.com!!!! already sent 
+2025-05-30 14:52:39,353 - INFO - Skipping amanda.jarnow@walgreens.com!!!! already sent 
+2025-05-30 14:52:39,353 - INFO - Skipping irwin.denyse@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,353 - INFO - Skipping graham.adriana@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,353 - INFO - Skipping jain.sonal@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,354 - INFO - Skipping garcia.vanessa@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,354 - INFO - Skipping runals.teresa@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,354 - INFO - Skipping mehta.srushti@aaa-calif.com!!!! already sent 
+2025-05-30 14:52:39,354 - INFO - Skipping claudia.zepeda@realtor.com!!!! already sent 
+2025-05-30 14:52:39,354 - INFO - Skipping victor.vergara@realtor.com!!!! already sent 
+2025-05-30 14:52:39,355 - INFO - Skipping mckenna.painton@realtor.com!!!! already sent 
+2025-05-30 14:52:39,355 - INFO - Skipping kelsey.vanderburg@realtor.com!!!! already sent 
+2025-05-30 14:52:39,355 - INFO - Skipping bharathr@spotify.com!!!! already sent 
+2025-05-30 14:52:39,355 - INFO - Skipping chetanp@spotify.com!!!! already sent 
+2025-05-30 14:52:39,356 - INFO - Skipping gabriell@spotify.com!!!! already sent 
+2025-05-30 14:52:39,356 - INFO - Skipping douglasc@spotify.com!!!! already sent 
+2025-05-30 14:52:39,356 - INFO - Skipping laureng@spotify.com!!!! already sent 
+2025-05-30 14:52:39,356 - INFO - Skipping nicoler@spotify.com!!!! already sent 
+2025-05-30 14:52:39,357 - INFO - Skipping christopher.taber@cvshealth.com!!!! already sent 
+2025-05-30 14:52:39,357 - INFO - Skipping acurtis@censys.com!!!! already sent 
+2025-05-30 14:52:39,358 - INFO - Skipping ldriss@censys.com!!!! already sent 
+2025-05-30 14:52:39,358 - INFO - Skipping advaith@censys.com!!!! already sent 
+2025-05-30 14:52:39,358 - INFO - Skipping andrewalexander@censys.com!!!! already sent 
+2025-05-30 14:52:39,358 - INFO - Skipping kelly.weller@addepar.com!!!! already sent 
+2025-05-30 14:52:39,359 - INFO - Skipping carlos.pineda@addepar.com!!!! already sent 
+2025-05-30 14:52:39,359 - INFO - Skipping douglas.clifford@addepar.com!!!! already sent 
+2025-05-30 14:52:39,359 - INFO - Skipping gabe.gallardo@bluerivert.com!!!! already sent 
+2025-05-30 14:52:39,359 - INFO - Skipping ashley.haybarker@bluerivertech.com!!!! already sent 
+2025-05-30 14:52:39,360 - INFO - Skipping pooja.mehta@bluerivertech.com!!!! already sent 
+2025-05-30 14:52:39,360 - INFO - Skipping olgert.denas@bluerivertech.com!!!! already sent 
+2025-05-30 14:52:39,360 - INFO - Skipping mcoffey@hatci.com!!!! already sent 
+2025-05-30 14:52:39,360 - INFO - Skipping tc@hatci.com!!!! already sent 
+2025-05-30 14:52:39,361 - INFO - Skipping jgross@hatci.com!!!! already sent 
+2025-05-30 14:52:39,361 - INFO - Skipping blemon@hatci.com!!!! already sent 
+2025-05-30 14:52:39,361 - INFO - Skipping ecorona@hatci.com!!!! already sent 
+2025-05-30 14:52:39,361 - INFO - Skipping kbaxter@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,362 - INFO - Skipping mforsythe@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,362 - INFO - Skipping babaker@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,362 - INFO - Skipping antran@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,362 - INFO - Skipping tallain@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,363 - INFO - Skipping rrichholt@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,363 - INFO - Skipping ajarman@exactsciences.com!!!! already sent 
+2025-05-30 14:52:39,363 - INFO - Skipping hanjohn@visa.com!!!! already sent 
+2025-05-30 14:52:39,363 - INFO - Skipping fpeccin@visa.com!!!! already sent 
+2025-05-30 14:52:39,364 - INFO - Skipping swramasu@visa.com!!!! already sent 
+2025-05-30 14:52:39,365 - INFO - Skipping taiyaba.ansari@synechron.com!!!! already sent 
+2025-05-30 14:52:39,365 - INFO - Skipping tfierro@visa.com!!!! already sent 
+2025-05-30 14:52:39,366 - INFO - Skipping ospann@visa.com!!!! already sent 
+2025-05-30 14:52:39,366 - INFO - Skipping aahansen@visa.com!!!! already sent 
+2025-05-30 14:52:39,367 - INFO - Skipping kweller@visa.com!!!! already sent 
+2025-05-30 14:52:39,367 - INFO - Skipping sobishop@visa.com!!!! already sent 
+2025-05-30 14:52:39,368 - INFO - Skipping lhurst@visa.com!!!! already sent 
+2025-05-30 14:52:39,368 - INFO - Skipping harshisi@visa.com!!!! already sent 
+2025-05-30 14:52:39,368 - INFO - Skipping sangeeta.iyer@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,369 - INFO - Skipping leticia.ferrer@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,370 - INFO - Skipping lbarney@belcan.com!!!! already sent 
+2025-05-30 14:52:39,370 - INFO - Skipping ramya.navalpakkam@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,371 - INFO - Skipping roopa.m@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,372 - INFO - Skipping brian.dillaway@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,372 - INFO - Skipping haike.nanninga@cognizant.com!!!! already sent 
+2025-05-30 14:52:39,373 - INFO - Skipping josh.pelham@moloco.com!!!! already sent 
+2025-05-30 14:52:39,373 - INFO - Skipping tammy.nguyen@moloco.com!!!! already sent 
+2025-05-30 14:52:39,373 - INFO - Skipping scott.barrett@moloco.com!!!! already sent 
+2025-05-30 14:52:39,374 - INFO - Skipping hannah.dumas@moloco.com!!!! already sent 
+2025-05-30 14:52:39,374 - INFO - Skipping jonathan.overberg@moloco.com!!!! already sent 
+2025-05-30 14:52:39,374 - INFO - Skipping katelyn.zeff@moloco.com!!!! already sent 
+2025-05-30 14:52:39,375 - INFO - Skipping shilpa.ponugoti@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,376 - INFO - Skipping josh.campos@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,377 - INFO - Skipping gregory.lee@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,377 - INFO - Skipping joshua.wagner@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,378 - INFO - Skipping kristen.torres@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,378 - INFO - Skipping joel.walton@drivetime.com!!!! already sent 
+2025-05-30 14:52:39,378 - INFO - Skipping krystin.mcdermott@adusa.com!!!! already sent 
+2025-05-30 14:52:39,378 - INFO - Skipping karin.chu@peapoddigitallabs.com!!!! already sent 
+2025-05-30 14:52:39,379 - INFO - Skipping abhishek.maheshwarappa@adusa.com!!!! already sent 
+2025-05-30 14:52:39,379 - INFO - Skipping ram.viravalli@retailbusinessservices.com!!!! already sent 
+2025-05-30 14:52:39,379 - INFO - Skipping tcarr@aquent.com!!!! already sent 
+2025-05-30 14:52:39,380 - INFO - Skipping katie.ritthaler@veritivcorp.com!!!! already sent 
+2025-05-30 14:52:39,380 - INFO - Skipping catherine.turner@veritivcorp.com!!!! already sent 
+2025-05-30 14:52:39,380 - INFO - Skipping kyle.hagenau@veritivcorp.com!!!! already sent 
+2025-05-30 14:52:39,381 - INFO - Skipping cohan.scott@veritivcorp.com!!!! already sent 
+2025-05-30 14:52:39,381 - INFO - Skipping shashikiran.chilukuri@veritivcorp.com!!!! already sent 
+2025-05-30 14:52:39,382 - INFO - Skipping rick.ternet@relx.com!!!! already sent 
+2025-05-30 14:52:39,382 - INFO - Skipping vijay.kumar@relx.com!!!! already sent 
+2025-05-30 14:52:39,382 - INFO - Skipping shubham.darodkar@relx.com!!!! already sent 
+2025-05-30 14:52:39,383 - INFO - Skipping emilee.roberts@relx.com!!!! already sent 
+2025-05-30 14:52:39,383 - INFO - Skipping kathleen.walsh@transunion.com!!!! already sent 
+2025-05-30 14:52:39,384 - INFO - Skipping liz.johnson@transunion.com!!!! already sent 
+2025-05-30 14:52:39,384 - INFO - Skipping cgottipati@transunion.com!!!! already sent 
+2025-05-30 14:52:39,385 - INFO - Skipping vshah@transunion.com!!!! already sent 
+2025-05-30 14:52:39,385 - INFO - Skipping olivier.everts@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,385 - INFO - Skipping matthew.pirecki@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,386 - INFO - Skipping trevis.litherland@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,386 - INFO - Skipping elizabeth.bolduc@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,386 - INFO - Skipping katie.wilkinson@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,386 - INFO - Skipping diane.valentine@lexisnexis.com!!!! already sent 
+2025-05-30 14:52:39,387 - INFO - Skipping hedwards@ap.org!!!! already sent 
+2025-05-30 14:52:39,387 - INFO - Skipping msankara@ap.org!!!! already sent 
+2025-05-30 14:52:39,387 - INFO - Skipping mkamin@ap.org!!!! already sent 
+2025-05-30 14:52:39,387 - INFO - Skipping jacob.guerrero@slalom.com!!!! already sent 
+2025-05-30 14:52:39,388 - INFO - Skipping thomas.langan@slalom.com!!!! already sent 
+2025-05-30 14:52:39,388 - INFO - Skipping aubry.coyle@slalom.com!!!! already sent 
+2025-05-30 14:52:39,388 - INFO - Skipping josh.perkinson@slalom.com!!!! already sent 
+2025-05-30 14:52:39,388 - INFO - Skipping kendra.cammack@maritz.com!!!! already sent 
+2025-05-30 14:52:39,389 - INFO - Skipping richard.medina@maritz.com!!!! already sent 
+2025-05-30 14:52:39,389 - INFO - Skipping anthony.melson@maritz.com!!!! already sent 
+2025-05-30 14:52:39,389 - INFO - Skipping archit.gupta@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,389 - INFO - Skipping loni.olazaba@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,389 - INFO - Skipping jennifer.daniher@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,390 - INFO - Skipping baharan.kamousi@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,390 - INFO - Skipping keli.corey@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,390 - INFO - Skipping lupe.leon@ceribell.com!!!! already sent 
+2025-05-30 14:52:39,390 - INFO - Skipping kleene@dnb.com!!!! already sent 
+2025-05-30 14:52:39,391 - INFO - Skipping powellw@dnb.com!!!! already sent 
+2025-05-30 14:52:39,391 - INFO - Skipping byrnesc@dnb.com!!!! already sent 
+2025-05-30 14:52:39,391 - INFO - Skipping kaline@dnb.com!!!! already sent 
+2025-05-30 14:52:39,391 - INFO - Skipping dudekp@dnb.com!!!! already sent 
+2025-05-30 14:52:39,392 - INFO - Skipping zimri.fils@wgu.edu!!!! already sent 
+2025-05-30 14:52:39,392 - INFO - Skipping fellowsm@dnb.com!!!! already sent 
+2025-05-30 14:52:39,392 - INFO - Skipping solomonmi@dnb.com!!!! already sent 
+2025-05-30 14:52:39,392 - INFO - Skipping neha.malpani@consumercellular.com!!!! already sent 
+2025-05-30 14:52:39,392 - INFO - Skipping nicole.garavaglia@consumercellular.com!!!! already sent 
+2025-05-30 14:52:39,393 - INFO - Skipping alex.woodhouse@consumercellular.com!!!! already sent 
+2025-05-30 14:52:39,393 - INFO - Skipping tejaswi.vanamala@lonza.com!!!! already sent 
+2025-05-30 14:52:39,393 - INFO - Skipping rebekah.ewing@lonza.com!!!! already sent 
+2025-05-30 14:52:39,393 - INFO - Skipping dhanesh.balasetti@lonza.com!!!! already sent 
+2025-05-30 14:52:39,394 - INFO - Skipping cailee_valente@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,394 - INFO - Skipping tracy_lafontant@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,394 - INFO - Skipping seldric_blocker@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,394 - INFO - Skipping marina_printz@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,395 - INFO - Skipping rita_fuller@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,395 - INFO - Skipping anurag_jain@newyorklife.com!!!! already sent 
+2025-05-30 14:52:39,396 - INFO - Skipping malav.dave@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,397 - INFO - Skipping mediha.odzakovic@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,398 - INFO - Skipping carol.gregory@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,398 - INFO - Skipping sunil.chandran@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,398 - INFO - Skipping amy.tran@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,398 - INFO - Skipping rvenkatakrishnan@reveleer.com!!!! already sent 
+2025-05-30 14:52:39,399 - INFO - Skipping cesar.jaidar@tyson.com!!!! already sent 
+2025-05-30 14:52:39,399 - INFO - Skipping anjali.bhatt@tyson.com!!!! already sent 
+2025-05-30 14:52:39,399 - INFO - Skipping peter.an@tyson.com!!!! already sent 
+2025-05-30 14:52:39,399 - INFO - Skipping katrina.wade@tyson.com!!!! already sent 
+2025-05-30 14:52:39,399 - INFO - Skipping felicia.adamson@tyson.com!!!! already sent 
+2025-05-30 14:52:39,400 - INFO - Skipping lauren.frala@tyson.com!!!! already sent 
+2025-05-30 14:52:39,400 - INFO - Generating email addresses...
+2025-05-30 14:52:39,401 - INFO - Using provided email address.
+2025-05-30 14:52:39,401 - INFO - Sending email to: michelle.b@tyson.com
+2025-05-30 14:52:39,401 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:40,945 - INFO - Using message_id: nan for michelle.b@tyson.com
+2025-05-30 14:52:42,865 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:52:42,866 - INFO - Email sent successfully to michelle.b@tyson.com
+2025-05-30 14:52:42,867 - INFO - Generating email addresses...
+2025-05-30 14:52:42,867 - INFO - Using provided email address.
+2025-05-30 14:52:42,867 - INFO - Sending email to: william_l@vfc.com
+2025-05-30 14:52:42,868 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:44,208 - INFO - Using message_id: nan for william_l@vfc.com
+2025-05-30 14:52:46,082 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:52:46,083 - INFO - Email sent successfully to william_l@vfc.com
+2025-05-30 14:52:46,084 - INFO - Generating email addresses...
+2025-05-30 14:52:46,084 - INFO - Using provided email address.
+2025-05-30 14:52:46,085 - INFO - Sending email to: julianna_raffa@vfc.com
+2025-05-30 14:52:46,085 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:47,438 - INFO - Using message_id: nan for julianna_raffa@vfc.com
+2025-05-30 14:52:49,353 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:52:49,354 - INFO - Email sent successfully to julianna_raffa@vfc.com
+2025-05-30 14:52:49,354 - INFO - Generating email addresses...
+2025-05-30 14:52:49,354 - INFO - Using provided email address.
+2025-05-30 14:52:49,356 - INFO - Sending email to: daniel.fisher@myparadigm.com
+2025-05-30 14:52:49,356 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:50,707 - INFO - Using message_id: nan for daniel.fisher@myparadigm.com
+2025-05-30 14:52:52,680 - INFO - Email sent successfully to daniel.fisher@myparadigm.com
+2025-05-30 14:52:52,681 - INFO - Email sent successfully to daniel.fisher@myparadigm.com
+2025-05-30 14:52:52,682 - INFO - Generating email addresses...
+2025-05-30 14:52:52,682 - INFO - Using provided email address.
+2025-05-30 14:52:52,683 - INFO - Sending email to: ethan.clemence@myparadigm.com
+2025-05-30 14:52:52,683 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:54,045 - INFO - Using message_id: nan for ethan.clemence@myparadigm.com
+2025-05-30 14:52:55,945 - INFO - Email sent successfully to ethan.clemence@myparadigm.com
+2025-05-30 14:52:55,945 - INFO - Email sent successfully to ethan.clemence@myparadigm.com
+2025-05-30 14:52:55,946 - INFO - Generating email addresses...
+2025-05-30 14:52:55,947 - INFO - Using provided email address.
+2025-05-30 14:52:55,947 - INFO - Sending email to: kelly.weller@addepar.com
+2025-05-30 14:52:55,947 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:52:57,297 - INFO - Using message_id: nan for kelly.weller@addepar.com
+2025-05-30 14:52:59,188 - INFO - Email sent successfully to kelly.weller@addepar.com
+2025-05-30 14:52:59,189 - INFO - Email sent successfully to kelly.weller@addepar.com
+2025-05-30 14:52:59,191 - INFO - Generating email addresses...
+2025-05-30 14:52:59,192 - INFO - Using provided email address.
+2025-05-30 14:52:59,192 - INFO - Sending email to: carlos.pineda@addepar.com
+2025-05-30 14:52:59,192 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:00,549 - INFO - Using message_id: nan for carlos.pineda@addepar.com
+2025-05-30 14:53:02,430 - INFO - Email sent successfully to carlos.pineda@addepar.com
+2025-05-30 14:53:02,431 - INFO - Email sent successfully to carlos.pineda@addepar.com
+2025-05-30 14:53:02,433 - INFO - Generating email addresses...
+2025-05-30 14:53:02,434 - INFO - Using provided email address.
+2025-05-30 14:53:02,434 - INFO - Sending email to: douglas.clifford@addepar.com
+2025-05-30 14:53:02,435 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:03,851 - INFO - Using message_id: nan for douglas.clifford@addepar.com
+2025-05-30 14:53:05,913 - INFO - Email sent successfully to douglas.clifford@addepar.com
+2025-05-30 14:53:05,914 - INFO - Email sent successfully to douglas.clifford@addepar.com
+2025-05-30 14:53:05,915 - INFO - Generating email addresses...
+2025-05-30 14:53:05,916 - INFO - Using provided email address.
+2025-05-30 14:53:05,916 - INFO - Sending email to: christine.turkal@abm.com
+2025-05-30 14:53:05,916 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:07,289 - INFO - Using message_id: nan for christine.turkal@abm.com
+2025-05-30 14:53:09,254 - INFO - Email sent successfully to christine.turkal@abm.com
+2025-05-30 14:53:09,255 - INFO - Email sent successfully to christine.turkal@abm.com
+2025-05-30 14:53:09,257 - INFO - Generating email addresses...
+2025-05-30 14:53:09,257 - INFO - Using provided email address.
+2025-05-30 14:53:09,258 - INFO - Sending email to: jonathan.daniel@abm.com
+2025-05-30 14:53:09,258 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:10,660 - INFO - Using message_id: nan for jonathan.daniel@abm.com
+2025-05-30 14:53:12,648 - INFO - Email sent successfully to jonathan.daniel@abm.com
+2025-05-30 14:53:12,649 - INFO - Email sent successfully to jonathan.daniel@abm.com
+2025-05-30 14:53:12,650 - INFO - Generating email addresses...
+2025-05-30 14:53:12,650 - INFO - Using provided email address.
+2025-05-30 14:53:12,651 - INFO - Sending email to: aj.domingo@abm.com
+2025-05-30 14:53:12,652 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:14,020 - INFO - Using message_id: nan for aj.domingo@abm.com
+2025-05-30 14:53:15,939 - INFO - Email sent successfully to aj.domingo@abm.com
+2025-05-30 14:53:15,941 - INFO - Email sent successfully to aj.domingo@abm.com
+2025-05-30 14:53:15,942 - INFO - Generating email addresses...
+2025-05-30 14:53:15,943 - INFO - Using provided email address.
+2025-05-30 14:53:15,943 - INFO - Sending email to: catherine.slack@abm.com
+2025-05-30 14:53:15,943 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:17,310 - INFO - Using message_id: nan for catherine.slack@abm.com
+2025-05-30 14:53:19,232 - INFO - Email sent successfully to catherine.slack@abm.com
+2025-05-30 14:53:19,233 - INFO - Email sent successfully to catherine.slack@abm.com
+2025-05-30 14:53:19,236 - INFO - Generating email addresses...
+2025-05-30 14:53:19,237 - INFO - Using provided email address.
+2025-05-30 14:53:19,237 - INFO - Sending email to: reshmi.chakraborty@abm.com
+2025-05-30 14:53:19,238 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:20,617 - INFO - Using message_id: nan for reshmi.chakraborty@abm.com
+2025-05-30 14:53:22,504 - INFO - Email sent successfully to reshmi.chakraborty@abm.com
+2025-05-30 14:53:22,505 - INFO - Email sent successfully to reshmi.chakraborty@abm.com
+2025-05-30 14:53:22,507 - INFO - Generating email addresses...
+2025-05-30 14:53:22,508 - INFO - Using provided email address.
+2025-05-30 14:53:22,508 - INFO - Sending email to: tarak.reddy@abm.com
+2025-05-30 14:53:22,508 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:23,870 - INFO - Using message_id: nan for tarak.reddy@abm.com
+2025-05-30 14:53:25,807 - INFO - Email sent successfully to tarak.reddy@abm.com
+2025-05-30 14:53:25,809 - INFO - Email sent successfully to tarak.reddy@abm.com
+2025-05-30 14:53:25,811 - INFO - Generating email addresses...
+2025-05-30 14:53:25,812 - INFO - Using provided email address.
+2025-05-30 14:53:25,812 - INFO - Sending email to: mgaudin@republicservices.com
+2025-05-30 14:53:25,812 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:27,180 - INFO - Using message_id: nan for mgaudin@republicservices.com
+2025-05-30 14:53:29,157 - INFO - Email sent successfully to mgaudin@republicservices.com
+2025-05-30 14:53:29,158 - INFO - Email sent successfully to mgaudin@republicservices.com
+2025-05-30 14:53:29,159 - INFO - Generating email addresses...
+2025-05-30 14:53:29,159 - INFO - Using provided email address.
+2025-05-30 14:53:29,160 - INFO - Sending email to: mhenrich@republicservices.com
+2025-05-30 14:53:29,160 - WARNING - Message-ID field contains NaN, replacing with None.nan
+2025-05-30 14:53:30,505 - INFO - Using message_id: nan for mhenrich@republicservices.com
+2025-05-30 14:53:32,385 - INFO - Email sent successfully to mhenrich@republicservices.com
+2025-05-30 14:53:32,386 - INFO - Email sent successfully to mhenrich@republicservices.com
+2025-05-30 14:53:32,398 - INFO - Data successfully saved to recruiters.csv

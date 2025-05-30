@@ -12,13 +12,35 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.utils import make_msgid
 
-resume_filename = "Anirudh_Resume.pdf"  # Update as necessary
-resume_path = os.path.join("email_assets", resume_filename)
+
 
 # Set up logging
 
 from logger import get_logger
 logger = get_logger(__name__)
+
+
+def select_resume(position: str) -> str:
+    position = position.lower()
+    
+    if position.startswith("data engineer") or "data engineer" in position:
+        role_code = "DE"
+    elif position.startswith("analyst") or "analyst" in position:
+        role_code = "DA"
+    elif position.startswith("data scientist") or "data scientist" in position:
+        role_code = "DS"
+    elif position.startswith("machine learning") or "machine learning" in position or \
+        "artificial intelligence" in position or "ai engineer" in position :
+        role_code = "ML"
+    elif position.startswith("software") or "software" in position:
+        role_code = "Sd"
+    else:
+        raise ValueError("Position string did not match any known resume types.")
+    
+    resume_filename = f"Anirudh_Resume_{role_code}.pdf"
+    resume_path = os.path.join("email_assets", resume_filename)
+    
+    return resume_path,resume_filename
 
 def clean_message_id(message_id):
     """
@@ -43,7 +65,7 @@ def clean_message_id(message_id):
         return message_id
 
 
-def send_email(sender_email, sender_password, recipient_email, subject, message, company_name, message_id = None):
+def send_email(sender_email, sender_password, recipient_email, subject, message, company_name,position,message_id = None):
     """
     Sends an email with an attachment.
     
@@ -87,6 +109,8 @@ def send_email(sender_email, sender_password, recipient_email, subject, message,
                 # msg.attach(MIMEText(message, 'plain'))
                 msg.attach(MIMEText(message, 'html')) #- uncomment if you want your message to be formatted
                 
+
+                resume_path,resume_filename = select_resume(position)
                 with open(resume_path, 'rb') as file:
                     resume_attachment = MIMEApplication(file.read(), Name=resume_filename)
                 resume_attachment['Content-Disposition'] = f'attachment; filename="{resume_filename}"'
@@ -132,6 +156,8 @@ def send_email(sender_email, sender_password, recipient_email, subject, message,
             # msg.attach(MIMEText(message, 'plain'))
             msg.attach(MIMEText(message, 'html')) #- uncomment if you want your message to be formatted
             
+            resume_path,resume_filename = select_resume(position)
+
             with open(resume_path, 'rb') as file:
                 resume_attachment = MIMEApplication(file.read(), Name=resume_filename)
             resume_attachment['Content-Disposition'] = f'attachment; filename="{resume_filename}"'

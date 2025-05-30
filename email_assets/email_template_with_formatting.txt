@@ -4,8 +4,8 @@
 <p>I hope you’re doing well. My name is Anirudh Iyengar, and I came across a job posting for the <strong>{position}</strong> at <strong>{company_name}</strong>. I believe I’d be a great fit for this role, and I’ll keep this brief as I know you’re busy.</p>
 <p>Why I’m a fit for this role:</p>
 <ul>
-    <li>Data Science experience | 2 YOE @ HIB</li>
-    <li>MLE Intern (Recent) | axyo prev (Synapse Labs.ai) - Built an end-to-end ML product for a client on payment reconciliation, which is deployed and actively used.</li>
+    <li>{position} experience | 2 YOE @ HIB</li>
+    <li>{position} Intern (Recent) | axyo prev (Synapse Labs.ai) - Built an end-to-end ML product for a client on payment reconciliation, which is deployed and actively used.</li>
     <li>Deep Learning Research Assistant | 1 YOE @ ASU (Jliang Lab)</li>
 </ul>
 <p>What can I do to get an interview at <strong>{company_name}</strong>? I’ve attached my resume for your reference. I’d love to have a quick 15-minute chat with you. Alternatively, could you please put in a word with the hiring manager or recruiter for this role? I’d greatly appreciate it.</p>
