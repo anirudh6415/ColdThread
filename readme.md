@@ -1,4 +1,4 @@
-# ColdThread
+# ColdThread - Personalized Email Automation Tool
 
 ColdThread is a Python-based system for automating personalized cold emails to recruiters and professors, complete with templates, scheduling, and follow-up capabilities.
 
